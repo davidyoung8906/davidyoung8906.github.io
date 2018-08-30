@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Wei Yang</title>
+    <link>http://youngwei.com/publication_types/1/</link>
+    <description>Recent content in 1 on Wei Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://youngwei.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SemRegex: A Semantics-Based Approach for Generating Regular Expressions from Natural Language Specifications</title>
+      <link>http://youngwei.com/publication/semregex/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/semregex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property Inference Attacks on Deep Neural Networks using Permutation Invariant Representations</title>
+      <link>http://youngwei.com/publication/permuteinvariance/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/permuteinvariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Large-Scale Empirical Study on Android Runtime Permission Rationale Messages</title>
+      <link>http://youngwei.com/publication/clap_vlhcc/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/clap_vlhcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Android Test Generation Tools in Industrial Cases</title>
+      <link>http://youngwei.com/publication/wctester/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/wctester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Android App Description for Permission Requirements Recommendation</title>
+      <link>http://youngwei.com/publication/clap_re/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/clap_re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EnMobile: Entity-based Characterization and Analysis of Mobile Malware</title>
+      <link>http://youngwei.com/publication/enmobile/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/enmobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Regular Expressions from Natural Language Specifications: Are We There Yet?</title>
+      <link>http://youngwei.com/publication/semregex-aaai/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/semregex-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telemade: A Testing Framework for Learning-Based Malware Detection Systems. </title>
+      <link>http://youngwei.com/publication/telemade/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/telemade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Detection in Adversarial Settings: Exploiting Feature Evolutions and Confusions in Android Apps</title>
+      <link>http://youngwei.com/publication/mrv/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/mrv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Test Input Generation for Android: Towards Getting There in an Industrial Case</title>
+      <link>http://youngwei.com/publication/wctester_icse17/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/wctester_icse17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free for All! Assessing User Data Exposure to Advertising Libraries on Android</title>
+      <link>http://youngwei.com/publication/pluto/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/pluto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Test Input Generation for Android: Are We Really There Yet in an Industrial Case?</title>
+      <link>http://youngwei.com/publication/wctester_fse16/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/wctester_fse16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AppContext: Differentiating Malicious and Benign Mobile App Behaviors Using Context</title>
+      <link>http://youngwei.com/publication/appcontext/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/appcontext/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Mobile Application Security via Bridging User Expectations and Application Behaviors.</title>
+      <link>http://youngwei.com/publication/hotsos14/</link>
+      <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/hotsos14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHYPER: Towards Automating Risk Assessment of Mobile Applications</title>
+      <link>http://youngwei.com/publication/whyper/</link>
+      <pubDate>Sun, 15 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/whyper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Grey-box Approach for Automated GUI-Model Generation of Mobile Applications</title>
+      <link>http://youngwei.com/publication/orbit/</link>
+      <pubDate>Fri, 15 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/orbit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

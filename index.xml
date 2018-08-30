@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Yang on Wei Yang</title>
+    <link>http://youngwei.com/</link>
+    <description>Recent content in Wei Yang on Wei Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SemRegex: A Semantics-Based Approach for Generating Regular Expressions from Natural Language Specifications</title>
+      <link>http://youngwei.com/publication/semregex/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/semregex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property Inference Attacks on Deep Neural Networks using Permutation Invariant Representations</title>
+      <link>http://youngwei.com/publication/permuteinvariance/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/permuteinvariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Large-Scale Empirical Study on Android Runtime Permission Rationale Messages</title>
+      <link>http://youngwei.com/publication/clap_vlhcc/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/clap_vlhcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Android Test Generation Tools in Industrial Cases</title>
+      <link>http://youngwei.com/publication/wctester/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/wctester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Android App Description for Permission Requirements Recommendation</title>
+      <link>http://youngwei.com/publication/clap_re/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/clap_re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EnMobile: Entity-based Characterization and Analysis of Mobile Malware</title>
+      <link>http://youngwei.com/publication/enmobile/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/enmobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Regular Expressions from Natural Language Specifications: Are We There Yet?</title>
+      <link>http://youngwei.com/publication/semregex-aaai/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/semregex-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telemade: A Testing Framework for Learning-Based Malware Detection Systems. </title>
+      <link>http://youngwei.com/publication/telemade/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/telemade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Detection in Adversarial Settings: Exploiting Feature Evolutions and Confusions in Android Apps</title>
+      <link>http://youngwei.com/publication/mrv/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/mrv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Adversarial Examples with Program Transformations: Practical Attacks to Machine Learner.</title>
+      <link>http://youngwei.com/talk/mwpls-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/talk/mwpls-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defense and Attacks on Mobile Malware Detection.</title>
+      <link>http://youngwei.com/talk/sjtu2017/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/talk/sjtu2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defense and Attacks on Mobile Malware Detection.</title>
+      <link>http://youngwei.com/talk/fudan2017/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/talk/fudan2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Learning-Based Security System: Generating Adversarial Samples for Static Analysis and Machine Learning.</title>
+      <link>http://youngwei.com/talk/ecnu2017/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/talk/ecnu2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defense and Attacks on Mobile Malware Detection.</title>
+      <link>http://youngwei.com/talk/shanghaitech2017/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/talk/shanghaitech2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Test Input Generation for Android: Towards Getting There in an Industrial Case</title>
+      <link>http://youngwei.com/publication/wctester_icse17/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/wctester_icse17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
