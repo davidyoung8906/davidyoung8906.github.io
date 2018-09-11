@@ -1,321 +1,276 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/semregex/</loc>
-      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/hero_carousel/</loc>
+    <lastmod>2017-10-15T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/permuteinvariance/</loc>
-      <lastmod>2018-07-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/clap_vlhcc/</loc>
-      <lastmod>2018-06-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/publications_selected/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/wctester/</loc>
-      <lastmod>2018-06-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/skills/</loc>
+    <lastmod>2017-11-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/clap_re/</loc>
-      <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/publications/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/enmobile/</loc>
-      <lastmod>2018-05-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/talks_selected/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/semregex-aaai/</loc>
-      <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/talks/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/telemade/</loc>
-      <lastmod>2018-01-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/posts/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/mrv/</loc>
-      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/mwpls-2017/</loc>
-      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/teaching/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/sjtu2017/</loc>
-      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/tags/</loc>
+    <lastmod>2017-09-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/fudan2017/</loc>
-      <lastmod>2017-10-23T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/search/</loc>
+    <lastmod>2018-07-23T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/ecnu2017/</loc>
-      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/shanghaitech2017/</loc>
-      <lastmod>2017-10-18T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/semregex/</loc>
+    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/wctester_icse17/</loc>
-      <lastmod>2017-05-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/permuteinvariance/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/hotsos17/</loc>
-      <lastmod>2017-04-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/clap_vlhcc/</loc>
+    <lastmod>2018-06-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/post/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/wctester/</loc>
+    <lastmod>2018-06-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/clap_re/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/enmobile/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/pluto/</loc>
-      <lastmod>2016-12-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/semregex-aaai/</loc>
+    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/wctester_fse16/</loc>
-      <lastmod>2016-10-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/telemade/</loc>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/ibm2/</loc>
-      <lastmod>2016-08-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/mrv/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/ibm1/</loc>
-      <lastmod>2016-07-11T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/talk/mwpls-2017/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/jcs_journal/</loc>
-      <lastmod>2016-04-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/talk/sjtu2017/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/qualcomm2016/</loc>
-      <lastmod>2016-03-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/talk/fudan2017/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/appcontext/</loc>
-      <lastmod>2015-12-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/talk/ecnu2017/</loc>
+    <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/sjtu2015/</loc>
-      <lastmod>2015-12-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/talk/shanghaitech2017/</loc>
+    <lastmod>2017-10-18T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/sri2015/</loc>
-      <lastmod>2015-07-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/wctester_icse17/</loc>
+    <lastmod>2017-05-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/talk/csl2015/</loc>
-      <lastmod>2015-02-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/hotsos17/</loc>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/hotsos14/</loc>
-      <lastmod>2014-04-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/post/</loc>
+    <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/whyper/</loc>
-      <lastmod>2013-12-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/</loc>
+    <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/orbit/</loc>
-      <lastmod>2013-02-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/talk/</loc>
+    <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication_types/1/</loc>
-      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/pluto/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication_types/2/</loc>
-      <lastmod>2016-04-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/wctester_fse16/</loc>
+    <lastmod>2016-10-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication_types/4/</loc>
-      <lastmod>2017-04-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/talk/ibm2/</loc>
+    <lastmod>2016-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/talk/ibm1/</loc>
+    <lastmod>2016-07-11T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication_types/</loc>
-      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/jcs_journal/</loc>
+    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/talk/qualcomm2016/</loc>
+    <lastmod>2016-03-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://youngwei.com/</loc>
-      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://youngwei.com/publication/appcontext/</loc>
+    <lastmod>2015-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/talk/sjtu2015/</loc>
+    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/talk/sri2015/</loc>
+    <lastmod>2015-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/talk/csl2015/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/publication/hotsos14/</loc>
+    <lastmod>2014-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/publication/whyper/</loc>
+    <lastmod>2013-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/publication/orbit/</loc>
+    <lastmod>2013-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/publication_types/1/</loc>
+    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/publication_types/2/</loc>
+    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/publication_types/4/</loc>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/home/</loc>
+    <lastmod>2017-10-15T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/publication_types/</loc>
+    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://youngwei.com/</loc>
+    <lastmod>2017-10-15T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
 </urlset>
