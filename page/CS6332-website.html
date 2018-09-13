@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>CS/SE 6332: Systems Security and Malicious Code Analysis</title>
+    <style>
+      body {
+          max-width: 50em;
+          align: center;
+          margin: auto;
+      }
+      table {
+          text-align: left;
+          border-collapse: collapse;
+      }
+      table, th, td {
+          border: solid thin black;
+      }
+      .header-text {
+          font-weight:bold;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Course CS/SE 6332</h1>
+    <p class="header-text">
+      Professor: Dr. Wei Yang<br/>
+      Term: Fall 2018<br/>
+      Meetings: ECSS 2.306 Friday 10:00AM-12:45PM<br/>
+    </p>
+    <p class="header-text">
+      Professor&rsquo;s Contact Information:<br/>
+      Office Location: ECSS 2.701<br/>
+      Email Address: wei.yang@utdallas.edu <br/>(Please type the prefix [CS 6332] on the subject of the email)<br/>
+      Office Hours: TBD
+    </p>
+    <hr/>
+    <h2>General Course Information</h2>
+    Pre-requisites, Co-requisites, &amp; other restrictions<br/>
+    Suggested pre- or co-requisite: CS 3340; CS 3376; CS 4348 <br/>
+    <h3>Course Description</h3>
+    <p>CS 6332 is a graduate level, research oriented, systems and software security class. The goal of this course is to understand the low-level details of the real software implementations by using program analysis techniques; examine the state of the art attacks, such as memory exploits (e.g., ROP); design practical systems defense (e.g., automatic vulnerability signature generation); design program analysis to reverse engineer the bytecode/binary code. </p>
+    <h3>Learning Outcomes</h3>
+    <p>In general, through this course, students should be able to parse undocumented bytecode/binary code, quickly deciphering the code&rsquo;s function and purpose. Specifically, students shall be able to understand and know:</p>
+    <h4>Automated program analysis for the reverse engineering of program bytecode/binary code. </h4>
+    <p>Static binary code analysis. Dynamic Binary code instrumentation. Data flow analysis, pointer analysis, and control flow analysis. Program slicing.</p>
+    <h4>Vulnerability Discovery, Memory Exploits, and system defense.</h4>
+    <p>Understand the common software vulnerabilities such as buffer overflow, format string, integer overflows. Understand how to develop exploits against each vulnerability, and understand how to bypass the state-of-the-art defense</p>
+    <h3>Required Texts &amp; Materials</h3>
+    [CHR] Ed Skoudis; Tom Liston. &ldquo;Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses&rdquo;, Second Edition <br/>
+    [AOE] Erickson, Jon. &ldquo;Hacking: The Art of Exploitation&rdquo;, 2nd Edition <br/>
+    [SRE] Eldad Eilam. &ldquo;Reversing: Secrets of Reverse Engineering&rdquo;<br/>
+    <h3>Suggested Texts, Readings, &amp; Materials</h3>
+    [CSAPP] Randal E. Bryant and David R. O&apos;Hallaron. &ldquo;Computer Systems: A Programmer&apos;s Perspective, 2/E&rdquo;<br/>
+    [TSH] Kozoil, Jack. &ldquo;The Shellcoder&apos;s Handbook: Discovering and Exploiting Security Holes&rdquo; <br/>
+    [PPA] Principles of Program Analysis. Springer. <br/>
+    <h2>Assignments & Academic Calendar</h2>
+    <table>
+      <tr><td>Week 1</td><td>Course Overview</td></tr>
+      <tr><td>Week 2</td><td>Understanding the Program Representations</td></tr>
+      <tr><td>Week 3</td><td>Static Analysis Tool Introduction</td></tr>
+      <tr><td>Week 4</td><td>Projects, Empirical Studies and Challenge Programs</td></tr>
+      <tr><td>Week 5</td><td>Principles of Program Analysis</td></tr>
+      <tr><td>Week 6</td><td>Applications of Program Analysis</td></tr>
+      <tr><td>Week 7</td><td>Symbolic Execution</td></tr>
+      <tr><td>Week 8</td><td>Automatic Exploits Generation</td></tr>
+      <tr><td>Week 9</td><td>Buffer Overflow, Integer and Heap Overflow</td></tr>
+      <tr><td>Week 10</td><td>Return Oriented Programming and HeapSpray</td></tr>
+      <tr><td>Week 11</td><td>Fighting for Malware: Unpacking, Disassembling, Decompilation</td></tr>
+      <tr><td>Week 12</td><td>Mobile Malware Analysis</td></tr>
+      <tr><td>Week 13</td><td>Obfuscation and Cloaking</td></tr>
+      <tr><td>Week 14</td><td>Trending Security Topics (1)</td></tr>
+      <tr><td>Week 15</td><td>Trending Security Topics (2)</td></tr>
+    </table>
+    Exam Date(s), Time(s): TBD<br/>
+    <h2>Course Policies</h2>
+    <h3>Grading (credit) Criteria</h3>
+    Projects: 60%<br/>
+    Participation: 10%<br/>
+    Exam: 30%<br/>
+    <h3>Grading Curve</h3>
+    <table>
+      <tr><td>97-100</td><td>A+</td></tr>
+      <tr><td>93-97</td><td>A</td></tr>
+      <tr><td>90-93</td><td>A-</td></tr>
+      <tr><td>87-90</td><td>B+</td></tr>
+      <tr><td>83-87</td><td>B</td></tr>
+      <tr><td>80-83</td><td>B-</td></tr>
+      <tr><td>77-80</td><td>C+</td></tr>
+      <tr><td>73-77</td><td>C</td></tr>
+      <tr><td>70-73</td><td>C-</td></tr>
+      <tr><td>67-70</td><td>D+</td></tr>
+      <tr><td>63-67</td><td>D</td></tr>
+      <tr><td>60-63</td><td>D-</td></tr>
+      <tr><td>under 60</td><td>F</td></tr>
+    </table>
+    <h3>Make-up Exams</h3>
+    <p>Make-up exams will be granted only for exceptional conditions, as approved by the instructor.</p>
+    <h3>Extra Credit</h3>
+    <p>Students can earn up to 30% credits by conducting empirical studies and programming challenges.</p>
+    <h3>Late Work</h3>
+    <p>30% reduction in grade for late project submissions up to 24 hours. Assignments will not be accepted past due 24 hours unless there are extenuating circumstances.</p>
+    <h3>Class Attendance</h3>
+    <p>You are expected to attend class. By CS Dept policy, missing three (3) consecutive classes results in a letter grade drop and missing four (4) consecutive classes is an automatic failure for the class.</p>
+    <h3>Classroom Citizenship</h3>
+    <p>Cell phones shall not be used in the classroom during sessions. Place them on mute. If you receive a call, leave the room.</p>
+    <h3>Student Conduct and Discipline</h3>
+    <p>The University of Texas System and The University of Texas at Dallas have rules and regulations for the orderly and efficient conduct of their business.  It is the responsibility of each student and each student organization to be knowledgeable about the rules and regulations which govern student conduct and activities.  General information on student conduct and discipline is contained in the UTD publication, A to Z Guide, which is provided to all registered students each academic year.</p>
+    <p>The University of Texas at Dallas administers student discipline within the procedures of recognized and established due process.  Procedures are defined and described in the Rules and Regulations, Board of Regents, The University of Texas System, Part 1, Chapter VI, Section 3, and in Title V, Rules on Student Services and Activities of the university&rsquo;s Handbook of Operating Procedures.  Copies of these rules and regulations are available to students in the Office of the Dean of Students, where staff members are available to assist students in interpreting the rules and regulations (SU 1.602, 972/883-6391).</p>
+    <p>A student at the university neither loses the rights nor escapes the responsibilities of citizenship.  He or she is expected to obey federal, state, and local laws as well as the Regents&rsquo; Rules, university regulations, and administrative rules.  Students are subject to discipline for violating the standards of conduct whether such conduct takes place on or off campus, or whether civil or criminal penalties are also imposed for such conduct.</p>
+    <h3>Academic Integrity</h3>
+    <p>The faculty expects from its students a high level of responsibility and academic honesty.  Because the value of an academic degree depends upon the absolute integrity of the work done by the student for that degree, it is imperative that a student demonstrate a high standard of individual honor in his or her scholastic work.</p>
+    <p>Scholastic dishonesty includes, but is not limited to, statements, acts or omissions related to applications for enrollment or the award of a degree, and/or the submission as one&rsquo;s own work or material that is not one&rsquo;s own.  As a general rule, scholastic dishonesty involves one of the following acts:  cheating, plagiarism, collusion and/or falsifying academic records.  Students suspected of academic dishonesty are subject to disciplinary proceedings.</p>
+    <p>Plagiarism, especially from the web, from portions of papers for other classes, and from any other source is unacceptable and will be dealt with under the university&rsquo;s policy on plagiarism (see general catalog for details).  This course will use the resources of turnitin.com, which searches the web for possible plagiarism and is over 90% effective.</p>
+    <h3>Email Use</h3>
+    <p>The University of Texas at Dallas recognizes the value and efficiency of communication between faculty/staff and students through electronic mail. At the same time, email raises some issues concerning security and the identity of each individual in an email exchange.  The university encourages all official student email correspondence be sent only to a student&rsquo;s U.T. Dallas email address and that faculty and staff consider email from students official only if it originates from a UTD student account. This allows the university to maintain a high degree of confidence in the identity of all individual corresponding and the security of the transmitted information.  UTD furnishes each student with a free email account that is to be used in all communication with university personnel. The Department of Information Resources at U.T. Dallas provides a method for students to have their U.T. Dallas mail forwarded to other accounts.</p>
+    <h3>Withdrawal from Class</h3>
+    <p>The administration of this institution has set deadlines for withdrawal of any college-level courses. These dates and times are published in that semester&apos;s course catalog. Administration procedures must be followed. It is the student&apos;s responsibility to handle withdrawal requirements from any class. In other words, I cannot drop or withdraw any student. You must do the proper paperwork to ensure that you will not receive a final grade of &quot;F&quot; in a course if you choose not to attend the class once you are enrolled.</p>
+    <h3>Student Grievance Procedures</h3>
+    <p>Procedures for student grievances are found in Title V, Rules on Student Services and Activities, of the university&rsquo;s Handbook of Operating Procedures.</p>
+    <p>In attempting to resolve any student grievance regarding grades, evaluations, or other fulfillments of academic responsibility, it is the obligation of the student first to make a serious effort to resolve the matter with the instructor, supervisor, administrator, or committee with whom the grievance originates (hereafter called &ldquo;the respondent&rdquo;).  Individual faculty members retain primary responsibility for assigning grades and evaluations.  If the matter cannot be resolved at that level, the grievance must be submitted in writing to the respondent with a copy of the respondent&rsquo;s School Dean.  If the matter is not resolved by the written response provided by the respondent, the student may submit a written appeal to the School Dean.  If the grievance is not resolved by the School Dean&rsquo;s decision, the student may make a written appeal to the Dean of Graduate or Undergraduate Education, and the deal will appoint and convene an Academic Appeals Panel.  The decision of the Academic Appeals Panel is final.  The results of the academic appeals process will be distributed to all involved parties.</p>
+    <p>Copies of these rules and regulations are available to students in the Office of the Dean of Students, where staff members are available to assist students in interpreting the rules and regulations.</p>
+    <h3>Incomplete Grades</h3>
+    <p>As per university policy, incomplete grades will be granted only for work unavoidably missed at the semester&rsquo;s end and only if 70% of the course work has been completed.  An incomplete grade must be resolved within eight (8) weeks from the first day of the subsequent long semester.  If the required work to complete the course and to remove the incomplete grade is not submitted by the specified deadline, the incomplete grade is changed automatically to a grade of F.</p>
+    <h3>Disability Services</h3>
+    <p>The goal of Disability Services is to provide students with disabilities educational opportunities equal to those of their non-disabled peers.  Disability Services is located in room 1.610 in the Student Union.  Office hours are Monday and Thursday, 8:30 a.m. to 6:30 p.m.; Tuesday and Wednesday, 8:30 a.m. to 7:30 p.m.; and Friday, 8:30 a.m. to 5:30 p.m.</p>
+    <p>The contact information for the Office of Disability Services is:</p>
+    <p>
+      The University of Texas at Dallas, SU 22<br/>
+      PO Box 830688<br/>
+      Richardson, Texas 75083-0688<br/>
+      (972) 883-2098 (voice or TTY)
+    </p>
+    <p>Essentially, the law requires that colleges and universities make those reasonable adjustments necessary to eliminate discrimination on the basis of disability.  For example, it may be necessary to remove classroom prohibitions against tape recorders or animals (in the case of dog guides) for students who are blind.  Occasionally an assignment requirement may be substituted (for example, a research paper versus an oral presentation for a student who is hearing impaired).  Classes enrolled students with mobility impairments may have to be rescheduled in accessible facilities.  The college or university may need to provide special services such as registration, note-taking, or mobility assistance.</p>
+    <p>It is the student&rsquo;s responsibility to notify his or her professors of the need for such an accommodation.  Disability Services provides students with letters to present to faculty members to verify that the student has a disability and needs accommodations.  Individuals requiring special accommodation should contact the professor after class or during office hours.</p>
+    <h3>Religious Holy Days</h3>
+    <p>The University of Texas at Dallas will excuse a student from class or other required activities for the travel to and observance of a religious holy day for a religion whose places of worship are exempt from property tax under Section 11.20, Tax Code, Texas Code Annotated.</p>
+    <p>The student is encouraged to notify the instructor or activity sponsor as soon as possible regarding the absence, preferably in advance of the assignment.  The student, so excused, will be allowed to take the exam or complete the assignment within a reasonable time after the absence: a period equal to the length of the absence, up to a maximum of one week. A student who notifies the instructor and completes any missed exam or assignment may not be penalized for the absence. A student who fails to complete the exam or assignment within the prescribed period may receive a failing grade for that exam or assignment.</p>
+    <p>If a student or an instructor disagrees about the nature of the absence [i.e., for the purpose of observing a religious holy day] or if there is similar disagreement about whether the student has been given a reasonable time to complete any missed assignments or examinations, either the student or the instructor may request a ruling from the chief executive officer of the institution, or his or her designee. The chief executive officer or designee must take into account the legislative intent of TEC 51.911(b), and the student and instructor will abide by the decision of the chief executive officer or designee.</p>
+    <h3>Off-Campus Instruction and Course Activities</h3>
+    <p>Off-campus, out-of-state, and foreign instruction and activities are subject to state law and University policies and procedures regarding travel and risk-related activities.  Information regarding these rules and regulations may be found at <a href="http://www.utdallas.edu/BusinessAffairs/Travel_Risk_Activities.htm">http://www.utdallas.edu/BusinessAffairs/Travel_Risk_Activities.htm</a>.  Additional information is available from the office of the school dean.</p>
+    <p>These descriptions and timelines are subject to change at the discretion of the Professor.</p>
+  </body>
+</html>
