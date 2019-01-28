@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>http://youngwei.com/talk/pku2018/</loc>
+      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/talk/fudan2018/</loc>
+      <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://youngwei.com/publication/semregex/</loc>
       <lastmod>2018-07-30T00:00:00+00:00</lastmod>
     </url>
@@ -133,7 +149,7 @@
     <url>
     
       <loc>http://youngwei.com/post/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -141,7 +157,7 @@
     <url>
     
       <loc>http://youngwei.com/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -149,7 +165,7 @@
     <url>
     
       <loc>http://youngwei.com/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -313,7 +329,7 @@
     <url>
     
       <loc>http://youngwei.com/</loc>
-      <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
