@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Testing Untestable Neural Machine Translation: An Industrial Case</title>
+      <title>Detecting Failures of Neural Machine Translation in the Absence of Reference Translations</title>
       <link>http://youngwei.com/publication/dsn19_industry/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
