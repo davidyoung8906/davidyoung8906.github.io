@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Charting the Attack Surface of Trigger-Action IoT Platforms</title>
+      <link>http://youngwei.com/publication/iruler/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/iruler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>REINAM: Reinforcement Learning for Input-Grammar Inference</title>
       <link>http://youngwei.com/publication/reinam/</link>
       <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/mrv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generating Adversarial Examples with Program Transformations: Practical Attacks to Machine Learner.</title>
-      <link>http://youngwei.com/talk/mwpls-2017/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/talk/mwpls-2017/</guid>
       <description></description>
     </item>
     
