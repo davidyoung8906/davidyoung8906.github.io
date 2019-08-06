@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis</title>
+      <link>http://youngwei.com/publication/malscan/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/malscan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Charting the Attack Surface of Trigger-Action IoT Platforms</title>
       <link>http://youngwei.com/publication/iruler/</link>
       <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/telemade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Malware Detection in Adversarial Settings: Exploiting Feature Evolutions and Confusions in Android Apps</title>
-      <link>http://youngwei.com/publication/mrv/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/mrv/</guid>
       <description></description>
     </item>
     
