@@ -27,8 +27,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://youngwei.com/home/about/</guid>
-      <description>Biography I am an assistant professor in the Department of Computer Science at the University of Texas at Dallas. I teach and do research on software engineering and security. My current primary projects relate to mobile security and adversarial machine learning. My past research experience spans the spectrum from automated testing (ORBIT, WCTester), through natural language processing (WHYPER, Pluto, CLAP, SemRegex), to malware detection (AppContext, EnMobile).
-I received my Ph.</description>
+      <description>Biography I am an assistant professor in the Department of Computer Science at the University of Texas at Dallas. I teach and do research on software engineering and security.
+Current Focused Research Areas:
+ Mobile Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, CLAP[1], EnMobile, MalScan) Automated Testing (ORBIT, WCTester[1][2], NMTtest[1], REINAM) SE/Security for Machine Learning (PerInv, MRV, Telemade, NMTtest) ML/NLP for SE/Security (WHYPER, Pluto, CLAP, SemRegex[1], REINAM) IoT Security (iRuler)  I received my Ph.</description>
     </item>
     
     <item>
