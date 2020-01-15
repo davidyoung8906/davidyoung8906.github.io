@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>TextExerciser: Feedback-driven Text Input Exercising for Android Applications</title>
+      <link>http://youngwei.com/publication/textexerciser/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/textexerciser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis</title>
       <link>http://youngwei.com/publication/malscan/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/semregex-aaai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Telemade: A Testing Framework for Learning-Based Malware Detection Systems. </title>
-      <link>http://youngwei.com/publication/telemade/</link>
-      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/telemade/</guid>
       <description></description>
     </item>
     
