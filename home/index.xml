@@ -29,7 +29,7 @@
       <guid>http://youngwei.com/home/about/</guid>
       <description>Biography I am an assistant professor in the Department of Computer Science at the University of Texas at Dallas. I teach and do research on software engineering and security.
 Current Focused Research Areas:
- Mobile Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, CLAP[1], EnMobile, MalScan, TextExerciser) Automated Testing (ORBIT, WCTester[1][2], NMTtest[1], REINAM) SE/Security for Machine Learning (PerInv, MRV, Telemade, NMTtest, ILFO) ML/NLP for SE/Security (WHYPER, Pluto, CLAP, SemRegex[1], REINAM) IoT Security (iRuler)  I received my Ph.</description>
+ Mobile Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, CLAP[1], EnMobile, MalScan, TextExerciser) Automated Testing (ORBIT, WCTester[1][2], NMTtest[1], REINAM, TextExerciser) SE/Security for Machine Learning (PerInv, MRV, Telemade, NMTtest, ILFO) ML/NLP for SE/Security (WHYPER, Pluto, CLAP, SemRegex[1], REINAM) IoT Security (iRuler)  I received my Ph.</description>
     </item>
     
     <item>
@@ -83,18 +83,17 @@ Current Focused Research Areas:
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://youngwei.com/home/students/</guid>
-      <description> Ph.D. Students
- Mirazul Haque (Oct 18-)
- Simin Chen (Jan 19-) co-advised with Cong Liu
+      <description>Ph.D. Students
+ Mirazul Haque (Oct 18-) [CVPR 2020]
+ Simin Chen (Jan 19-) 1 [FSE 2020]
  Zihe Song (September 19-)
- Xiaodi Li (Jan 19-)
+ Xiaodi Li (Jan 19-) [ASE 2019] [FSE 2020]
  Wasif Haque (June 19-)
   M.S. Students
- Kaiyuan Zhang (Dec 18-)
- Anki Chauhan (March 19-)
- Sampath Grandhi (March 19-)
- Soumil Mandal (September 19-)
-   </description>
+ Soumil Mandal (September 19-)  Former Students
+ Kaiyuan Zhang (M.S. Dec 18 - May 2020)
+First Employment: PhD student at Purdue CS
+ Anki Chauhan (M.S. March 19 - May 2020) [CVPR 2020]</description>
     </item>
     
     <item>
