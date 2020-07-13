@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Wei Yang</title>
@@ -22,20 +22,20 @@
     </item>
     
     <item>
-      <title>4</title>
-      <link>http://youngwei.com/publication_types/4/</link>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication_types/4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2</title>
       <link>http://youngwei.com/publication_types/2/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>http://youngwei.com/publication_types/4/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication_types/4/</guid>
       <description></description>
     </item>
     
