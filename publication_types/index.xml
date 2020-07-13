@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Wei Yang</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://youngwei.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,9 @@
     <item>
       <title>1</title>
       <link>http://youngwei.com/publication_types/1/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>http://youngwei.com/publication_types/2/</link>
-      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication_types/2/</guid>
       <description></description>
     </item>
     
@@ -36,6 +27,15 @@
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>http://youngwei.com/publication_types/2/</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication_types/2/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Yang on Wei Yang</title>
@@ -7,141 +6,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>DENAS: Automated Rule Generation by Knowledge Extraction from Neural Networks</title>
-      <link>http://youngwei.com/publication/denas/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <title>Posts</title>
+      <link>http://youngwei.com/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>http://youngwei.com/publication/denas/</guid>
+      <guid>http://youngwei.com/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ILFO: Adversarial Attack on Adaptive Neural Networks</title>
-      <link>http://youngwei.com/publication/ilfo/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>http://youngwei.com/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>http://youngwei.com/publication/ilfo/</guid>
+      <guid>http://youngwei.com/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TextExerciser: Feedback-driven Text Input Exercising for Android Applications</title>
-      <link>http://youngwei.com/publication/textexerciser/</link>
-      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://youngwei.com/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>http://youngwei.com/publication/textexerciser/</guid>
+      <guid>http://youngwei.com/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis</title>
-      <link>http://youngwei.com/publication/malscan/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Projects</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://youngwei.com/publication/malscan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Charting the Attack Surface of Trigger-Action IoT Platforms</title>
-      <link>http://youngwei.com/publication/iruler/</link>
-      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/iruler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REINAM: Reinforcement Learning for Input-Grammar Inference</title>
-      <link>http://youngwei.com/publication/reinam/</link>
-      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/reinam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting Failures of Neural Machine Translation in the Absence of Reference Translations</title>
-      <link>http://youngwei.com/publication/dsn19_industry/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/dsn19_industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing Untestable Neural Machine Translation: An Industrial Case</title>
-      <link>http://youngwei.com/publication/icse19_poster/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/icse19_poster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial-Resilience Assurance for Mobile Security Systems.</title>
-      <link>http://youngwei.com/talk/pku2018/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/talk/pku2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial Learning and Mobile Security System.</title>
-      <link>http://youngwei.com/talk/fudan2018/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/talk/fudan2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SemRegex: A Semantics-Based Approach for Generating Regular Expressions from Natural Language Specifications</title>
-      <link>http://youngwei.com/publication/semregex/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/semregex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Property Inference Attacks on Deep Neural Networks using Permutation Invariant Representations</title>
-      <link>http://youngwei.com/publication/permuteinvariance/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/permuteinvariance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Large-Scale Empirical Study on Android Runtime Permission Rationale Messages</title>
-      <link>http://youngwei.com/publication/clap_vlhcc/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/clap_vlhcc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Empirical Study of Android Test Generation Tools in Industrial Cases</title>
-      <link>http://youngwei.com/publication/wctester/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/wctester/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mining Android App Description for Permission Requirements Recommendation</title>
-      <link>http://youngwei.com/publication/clap_re/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/clap_re/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
