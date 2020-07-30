@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://youngwei.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SCDetector: Software Functional Clone Detection Based on Semantic Tokens Analysis</title>
+      <link>http://youngwei.com/publication/scdetector/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/scdetector/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DENAS: Automated Rule Generation by Knowledge Extraction from Neural Networks</title>
