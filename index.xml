@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Database-Access Performance Antipatterns in Database-Backed Web Applications</title>
+      <link>http://youngwei.com/publication/dbantipattern/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/dbantipattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SCDetector: Software Functional Clone Detection Based on Semantic Tokens Analysis</title>
       <link>http://youngwei.com/publication/scdetector/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/clap_vlhcc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Empirical Study of Android Test Generation Tools in Industrial Cases</title>
-      <link>http://youngwei.com/publication/wctester/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/wctester/</guid>
       <description></description>
     </item>
     
