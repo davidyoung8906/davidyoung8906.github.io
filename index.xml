@@ -12,19 +12,28 @@
     
     <item>
       <title> An Empirical Analysis of UI-based Flaky Tests</title>
-      <link>http://youngwei.com/publication/uiflakystudy/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <link>http://youngwei.com/publication/androidflaky/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://youngwei.com/publication/uiflakystudy/</guid>
+      <guid>http://youngwei.com/publication/androidflaky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IntDroid: Android Malware Detection Based on API Intimacy Analysis</title>
       <link>http://youngwei.com/publication/intdroid/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/intdroid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> An Empirical Analysis of UI-based Flaky Tests</title>
+      <link>http://youngwei.com/publication/uiflakystudy/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/uiflakystudy/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/talk/fudan2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SemRegex: A Semantics-Based Approach for Generating Regular Expressions from Natural Language Specifications</title>
-      <link>http://youngwei.com/publication/semregex/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/semregex/</guid>
       <description></description>
     </item>
     
