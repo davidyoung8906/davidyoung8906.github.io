@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title> An Empirical Analysis of UI-based Flaky Tests</title>
+      <link>http://youngwei.com/publication/uiflakystudy/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/uiflakystudy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IntDroid: Android Malware Detection Based on API Intimacy Analysis</title>
       <link>http://youngwei.com/publication/intdroid/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -61,15 +70,6 @@
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/textexerciser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> An Empirical Analysis of UI-based Flaky Tests</title>
-      <link>http://youngwei.com/publication/uiflakystudy/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/uiflakystudy/</guid>
       <description></description>
     </item>
     

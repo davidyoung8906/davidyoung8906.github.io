@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://youngwei.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> An Empirical Analysis of UI-based Flaky Tests</title>
+      <link>http://youngwei.com/publication/uiflakystudy/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/uiflakystudy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Database-Access Performance Antipatterns in Database-Backed Web Applications</title>
@@ -54,15 +63,6 @@
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/textexerciser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> An Empirical Analysis of UI-based Flaky Tests</title>
-      <link>http://youngwei.com/publication/uiflakystudy/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/uiflakystudy/</guid>
       <description></description>
     </item>
     
