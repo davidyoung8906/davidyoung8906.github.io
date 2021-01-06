@@ -4,24 +4,8 @@
     
     <url>
     
-      <loc>http://youngwei.com/publication/androidflaky/</loc>
-      <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>http://youngwei.com/publication/intdroid/</loc>
       <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://youngwei.com/publication/uiflakystudy/</loc>
-      <lastmod>2020-12-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -62,6 +46,14 @@
     
       <loc>http://youngwei.com/publication/textexerciser/</loc>
       <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/publication/uiflakystudy/</loc>
+      <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -381,7 +373,7 @@
     <url>
     
       <loc>http://youngwei.com/publication_types/1/</loc>
-      <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2020-08-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -416,7 +408,7 @@
     <url>
     
       <loc>http://youngwei.com/publication_types/</loc>
-      <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2020-08-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
