@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>WebEvo: Taming Web Application Evolution via Detecting Semantic Structure Change</title>
+      <link>http://youngwei.com/publication/webevo/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/webevo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> An Empirical Analysis of UI-based Flaky Tests</title>
       <link>http://youngwei.com/publication/uiflakystudy/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/talk/fudan2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SemRegex: A Semantics-Based Approach for Generating Regular Expressions from Natural Language Specifications</title>
-      <link>http://youngwei.com/publication/semregex/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/semregex/</guid>
       <description></description>
     </item>
     
