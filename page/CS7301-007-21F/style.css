@@ -1,0 +1,38 @@
+a {
+text-decoration:none;
+color:#FF6A33;
+}
+
+a:hover {
+    text-decoration: underline;    
+}
+
+.main_content{
+margin: auto; 
+width: 1300px;
+background-color: white;
+padding: 30px;
+ line-height: 150%;
+}
+
+
+body {
+  font-family: 'Times New Roman', serif;
+  font-size: 125%; 
+  vertical-align: middle;
+  background-color:#BBBBBB; 
+  margin-top: 20px; 
+  margin-bottom: 20px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+td {
+    text-align: center;
+    border: 2px solid black;
+}
+
+tr.cancellation_row {
+  background-color: #FFFE33;
+  font-weight: bold;
+}
