@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An Empirical Analysis of Compatibility Issues for Industrial Mobile Games</title>
+      <link>http://youngwei.com/publication/gamecompatstudy/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/gamecompatstudy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepPerform: An Efficient Approach for Performance Testing of Resource-Constrained Neural Networks</title>
+      <link>http://youngwei.com/publication/deepperform/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/deepperform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NMTSloth: Understanding and Testing Efficiency Degradation of Neural Machine Translation Systems</title>
       <link>http://youngwei.com/publication/nmtsloth/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/scdetector/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DENAS: Automated Rule Generation by Knowledge Extraction from Neural Networks</title>
-      <link>http://youngwei.com/publication/denas/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/denas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ILFO: Adversarial Attack on Adaptive Neural Networks</title>
-      <link>http://youngwei.com/publication/ilfo/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/ilfo/</guid>
       <description></description>
     </item>
     

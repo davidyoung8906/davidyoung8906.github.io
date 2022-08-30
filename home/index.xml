@@ -29,7 +29,7 @@
       <guid>http://youngwei.com/home/about/</guid>
       <description>Biography I am an assistant professor in the Department of Computer Science at the University of Texas at Dallas. I teach and do research on software engineering and security.
 Current Focused Research Areas:
- Mobile Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, CLAP[1], EnMobile, MalScan, TextExerciser, IntDroid, HomDroid) Software Testing (ORBIT, WCTester[1][2], NMTtest[1], REINAM, TextExerciser, SCDetector, DBAntiPattern, UI-Flaky, WebEvo, Vet, GLIB) SE/Security for Machine Learning (PerInv, MRV, Telemade, NMTtest, ILFO, DENAS, EREBA, NICGSlowDown, NMTSloth) ML/NLP for SE/Security (WHYPER, Pluto, CLAP, SemRegex[1], REINAM, TextExerciser, DENAS, VulCNN) IoT Security (iRuler)  I received my Ph.</description>
+ Mobile Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, CLAP[1], EnMobile, MalScan, TextExerciser, IntDroid, HomDroid) Software Testing (ORBIT, WCTester[1][2], NMTtest[1], REINAM, TextExerciser, SCDetector, DBAntiPattern, UI-Flaky, WebEvo, Vet, GLIB, GameCompatStudy) SE/Security for Machine Learning (PerInv, MRV, Telemade, NMTtest, ILFO, DENAS, EREBA, NICGSlowDown, NMTSloth, DeepPerform) ML/NLP for SE/Security (WHYPER, Pluto, CLAP, SemRegex[1], REINAM, TextExerciser, DENAS, VulCNN) IoT Security (iRuler)  I received my Ph.</description>
     </item>
     
     <item>
@@ -87,8 +87,8 @@ Check CV for more.</description>
       <guid>http://youngwei.com/home/students/</guid>
       <description>Ph.D. Students
  Mirazul Haque (Jan 19-) [CVPR 2020] [ICSE 2022] [CVPR 2022] [FSE 2022]
- Simin Chen (Jan 19-) 1 [FSE 2020] [CVPR 2022] [IJCAI 2022] [FSE 2022]
- Zihe Song (Jan 20-) [ICSE SRC 2020] [ICSE 2021] [CVPR 2022] [FSE 2022]
+ Simin Chen (Jan 19-) 1 [FSE 2020] [CVPR 2022] [IJCAI 2022] [FSE 2022] [ASE 2022]
+ Zihe Song (Jan 20-) [ICSE SRC 2020] [ICSE 2021] [CVPR 2022] [FSE 2022] [ISSRE 2022]
  Yufei Li (Aug 20-) [FSE 2021]
  Jaeseong Lee (Aug 21-) 2 [FSE 2020]
  Ravishka Rathnasuriya (Dec 21-)

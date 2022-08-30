@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://youngwei.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Empirical Analysis of Compatibility Issues for Industrial Mobile Games</title>
+      <link>http://youngwei.com/publication/gamecompatstudy/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/gamecompatstudy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepPerform: An Efficient Approach for Performance Testing of Resource-Constrained Neural Networks</title>
+      <link>http://youngwei.com/publication/deepperform/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/deepperform/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NMTSloth: Understanding and Testing Efficiency Degradation of Neural Machine Translation Systems</title>
