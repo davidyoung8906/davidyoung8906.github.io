@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>TestAug: A Framework for Augmenting Capability-based NLP Tests</title>
+      <link>http://youngwei.com/publication/testaug/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/testaug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NMTSloth: Understanding and Testing Efficiency Degradation of Neural Machine Translation Systems</title>
       <link>http://youngwei.com/publication/nmtsloth/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/dbantipattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCDetector: Software Functional Clone Detection Based on Semantic Tokens Analysis</title>
-      <link>http://youngwei.com/publication/scdetector/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/scdetector/</guid>
       <description></description>
     </item>
     
