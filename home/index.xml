@@ -29,7 +29,23 @@
       <guid>http://youngwei.com/home/about/</guid>
       <description>Biography I am an assistant professor in the Department of Computer Science at the University of Texas at Dallas. I teach and do research on software engineering and security.
 Current Focused Research Areas:
- Mobile Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, CLAP[1], EnMobile, MalScan, TextExerciser, IntDroid, HomDroid) Software Testing (ORBIT, WCTester[1][2], NMTtest[1], REINAM, TextExerciser, SCDetector, DBAntiPattern, UI-Flaky, WebEvo, Vet, GLIB, GameCompatStudy) SE/Security for Machine Learning (PerInv, MRV, Telemade, NMTtest, ILFO, DENAS, EREBA, NICGSlowDown, NMTSloth, DeepPerform) ML/NLP for SE/Security (WHYPER, Pluto, CLAP, SemRegex[1], REINAM, TextExerciser, DENAS, VulCNN) IoT Security (iRuler)  I received my Ph.</description>
+ SE/Security for Machine Learning (PerInv, MRV, Telemade, NMTtest, ILFO, DENAS, EREBA, NICGSlowDown, NMTSloth, DeepPerform, TestAug)
+ Mobile/Embedded System Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, CLAP[1], EnMobile, MalScan, iRuler, TextExerciser, IntDroid, HomDroid, IFDroid )
+ Intelligent Software Testing/Security (ORBIT, WCTester[1][2], NMTtest[1], SemRegex[1], REINAM, TextExerciser, SCDetector, DBAntiPattern, UI-Flaky, WebEvo, Vet, GLIB, GameCompatStudy, VulCNN)   I received my Ph.</description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>http://youngwei.com/home/students/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://youngwei.com/home/students/</guid>
+      <description>Ph.D. Students
+ Mirazul Haque (Jan 19-) [CVPR 2020] [ICSE 2022] [CVPR 2022] [FSE 2022] [COLING 2022]
+ Simin Chen (Jan 19-) 1 [FSE 2020] [CVPR 2022] [IJCAI 2022] [FSE 2022] [ASE 2022]
+ Zihe Song (Jan 20-) [ICSE 2021] [CVPR 2022] [FSE 2022] [ISSRE 2022]
+     Graduated Students
+ Yueming Wu (Ph.D. Jan 19- Sept 21) 2 [ASE 2019] [ASE 2020] [TOSEM 2021] [ISSTA 2021] [ICSE 2022]</description>
     </item>
     
     <item>
@@ -80,35 +96,18 @@ Check CV for more.</description>
     </item>
     
     <item>
-      <title>Students</title>
-      <link>http://youngwei.com/home/students/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>http://youngwei.com/home/students/</guid>
-      <description>Ph.D. Students
- Mirazul Haque (Jan 19-) [CVPR 2020] [ICSE 2022] [CVPR 2022] [FSE 2022] [COLING 2022]
- Simin Chen (Jan 19-) 1 [FSE 2020] [CVPR 2022] [IJCAI 2022] [FSE 2022] [ASE 2022]
- Zihe Song (Jan 20-) [ICSE SRC 2020] [ICSE 2021] [CVPR 2022] [FSE 2022] [ISSRE 2022]
- Jaeseong Lee (Aug 21-) 2 [FSE 2020]
- Ravishka Rathnasuriya (Dec 21-)
-    Graduated Students
- Yueming Wu (Ph.</description>
-    </item>
-    
-    <item>
       <title>Teaching</title>
       <link>http://youngwei.com/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://youngwei.com/home/teaching/</guid>
-      <description>Spring 2022, SE 4367.001 - Software Testing Verification Validation and Quality Assurance
+      <description>Spring 2023, SE 4367.001 - Software Testing Verification Validation and Quality Assurance
+Fall 2022, SE 6387.001 - Advanced Software Engineering Project
+Spring 2022, SE 4367.001 - Software Testing Verification Validation and Quality Assurance
 Fall 2021, CS/SE 7301.007 - Software Analysis &amp;amp; Security
 Spring 2021, SE 4367.001 - Software Testing Verification Validation and Quality Assurance
 Fall 2020, CS/SE 7301.501 - Software Analysis &amp;amp; Security
-Summer 2020, CS 4301: Machine Learning in Cyber Security
-Spring 2020, CS 6301: Machine Learning in Cyber Security
-Fall 2019, CS/CE/SE 3354: Software Engineering
-Spring 2019, CS 6301: Machine Learning in Cyber Security</description>
+Summer 2020, CS 4301: Machine Learning in Cyber Security</description>
     </item>
     
     <item>
