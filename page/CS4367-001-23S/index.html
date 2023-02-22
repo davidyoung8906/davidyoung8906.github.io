@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en" class="scrolls">
+	<head>
+		<meta charset="utf-8" />
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<!-- UPDATE -->
+		<title>SE 4367.001 - Software Testing Verification Validation and Quality Assurance</title>
+		<meta name="description" content="CS 6301 - 007 Machine Learning in Cyber Security" />
+		<!-- END UPDATE -->
+		
+		<meta name="author" content="Wei Yang" />
+	
+	<link href="style.css" rel="stylesheet" type="text/css">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"type="text/javascript"></script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36735946-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+	</head>
+	<body>
+    
+    <div class="main_content">
+    <div style="background-color:#FF8033; padding:10px;">
+    <center><h1>SE 4367.001 - Software Testing Verification Validation and Quality Assurance</h1><font size="5">Spring 2023</font></center>        
+    </div>
+    <h2>Course Information</h2>
+    <div style="font-size: 20px; margin: 20px">
+        <b>Location:</b>
+        MS Teams<br />
+        <b>Time:</b>
+        Tuesday & Thursday 2:30pm - 3:45pm<br />
+    </div>
+    <div style="font-size: 20px; margin: 20px">
+        <b>Instructor:</b>
+        <a href="http://youngwei.com/">Wei Yang</a><br />
+        <b>Email:</b>
+        <a href="mailto:wei.yang@utdallas.edu">wei.yang@utdallas.edu</a><br /></a>
+        <b>Office:</b> ECSS 4.225<br />
+        <b>Office Hours:</b> By Appointment
+        <br />
+    </div>
+    <div style="font-size: 20px; margin: 20px">
+        <b>TA:</b> 
+        <a href="http://www.chensimin.site/">Simin Chen</a><br />
+        <b>Email:</b>
+        <a href="mailto:SXC180080@utdallas.edu">Simin.Chen@utdallas.edu</a><br />
+        <b>Office:</b> MS Teams
+        <br />
+        <b>Office Hours:</b> TBD
+        <br />
+    </div>
+
+    <h2>Course Style</h2>
+    <div style="margin-left: 20px;">
+    This course is taught in a lecture-course style. Each student will be expected to accomplish:
+
+    <ul>
+        <li>Mid-term Exam (30%)</li>
+        <li>Assignments (25%)</li>
+        <li>Online Discussion & Class Participation(5%) </li>
+        <li>Final Exam(40%)</li>
+        
+        
+    </ul>
+    </div>
+
+    <h2>Textbooks</h2>
+   This course will use <a href="https://www.fuzzingbook.org/">The Fuzzing Book</a> as the main textbook, and students can refer to following books for other background knowledge.
+    <div style="margin-left:20px;">
+    <a href="https://cs.au.dk/~amoeller/spa/spa.pdf">Static Program Analysis</a></br>    
+    <a href="https://www.debuggingbook.org/">The Debugging Book</a></br> 
+    <a href="https://people.scs.carleton.ca/~paulv/toolsjewels.html">Computer Security and the Internet: Tools and Jewels</a></br>   
+    <a href="https://www.oreilly.com/library/view/the-art-and/9780124115439/?ar">The Art and Science of Analyzing Software Data</a> (using UTD email to access)</br>   
+    <a href="https://d2l.ai/">Dive into Deep Learning</a></br>
+    <a href="https://www.safaribooksonline.com/library/view/-/9781484234327/?ar">Building Intelligent Systems: A Guide to Machine Learning Engineering</a> (using UTD email to access)</br>
+    <a href="https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/?ar">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</a> (using UTD email to access)</br>
+    </div>
+    
+    <h2>Assignment</h2>
+    <div style="margin-left: 20px;">
+    <b>Assignment1:</b> <a href="http://youngwei.com/page/CS4367-001-22S/Slides/Assignment1.pdf">Setting up the fuzzing book</a> </br>
+
+    <iframe style="width:65%;" src="https://docs.google.com/document/d/e/2PACX-1vTYsclpSeBIQhJ98sBGf7eJWhTV20_L1814B-yhunNnVZk971rcO39Zr3-1SZq4o7cPJiwHXNJlehCF/pub?embedded=true"></iframe>
+</br>
+    <b>Assignment2:</b> <a href="https://docs.google.com/document/d/e/2PACX-1vQP-yMiOLnaOoTeo-0IVSvKt7PmSsrVVfSccManNwOI72ujCQRDsipW_HBno-0vc6Tn8TgEwG6FJlMR/pub">Test drive AFL</a> </br>
+
+    <iframe style="width:65%;" src="https://docs.google.com/document/d/e/2PACX-1vQP-yMiOLnaOoTeo-0IVSvKt7PmSsrVVfSccManNwOI72ujCQRDsipW_HBno-0vc6Tn8TgEwG6FJlMR/pub?embedded=true"></iframe>
+
+    
+    </div> 
+
+    <h2>Schedule and Lecture Slides</h2>
+    <div style="width:95%;">
+    <table style="width:100%;">
+        <tr>
+            <td>Week
+            <td>Dates
+            <td>Topic
+            <td>Material   
+        </tr>
+        <tr>
+            <td>1.1
+            <td>Jan. 17th
+            <td>Course Overview  
+            <td>    <a href="https://youngwei.com/page/CS4367-001-22S/Slides/Lecture1.pdf">[Slides]</a> 
+                <a href="https://elearning.utdallas.edu/bbcswebdav/pid-6782039-dt-content-rid-155084130_1/xid-155084130_1">[Video]</a> </br>
+        </tr>
+          
+       
+       <tr>
+            <td>1.2
+            <td>Jan. 19th
+            <td>Introduction to Software Testing I
+                <td><a href="https://elearning.utdallas.edu/bbcswebdav/pid-6362958-dt-content-rid-153229754_1/xid-153229754_1">[Slides]</a> 
+                    <a href=" https://cometmail.sharepoint.com/:v:/s/SE43670012222/Ed-J0C98_oFIsLLaGCEyPMoBBxdC1oU8mX_ji82drDceLw?e=6HjHKx">[Video]</a>
+                <a href="https://www.fuzzingbook.org/html/Intro_Testing.html">[Book Chapter]</a>
+                <a href="https://www.microsoft.com/en-us/research/project/pex-and-moles-isolation-and-white-box-unit-testing-for-net/">[Reading1]</a> 
+                <a href="https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes#Testing">[Reading2]</a> </br>
+        </tr>       
+
+        <tr>    
+            <td>2.1
+            <td>Jan. 24th
+            <td>Introduction to Software Testing II - Coverage
+                <td><a href="https://elearning.utdallas.edu/bbcswebdav/pid-6362960-dt-content-rid-153229760_1/xid-153229760_1">[Slides]</a> 
+                    <a href="https://cometmail.sharepoint.com/sites/SE43670012222/Shared%20Documents/General/Recordings/View%20Only/Meeting%20in%20_General_-20220125_113256-Meeting%20Recording.mp4?web=1">[Video]</a> 
+                <a href="https://www.fuzzingbook.org/html/Coverage.html">[Book Chapter]</a>
+                <a href="https://www.microsoft.com/en-us/research/uploads/prod/2016/07/What-Developers-Want-and-Need-from-Program-Analysis-An-Empirical-Study.pdf">[Reading1]</a> 
+                <a href="https://cacm.acm.org/magazines/2010/2/69354-a-few-billion-lines-of-code-later/fulltext">[Reading2]</a>  </br>
+        </tr> 
+            
+       
+
+
+        <tr>
+            <td>2.2
+            <td>Jan. 26th
+            <td>Mutation Analysis <td><a href="https://elearning.utdallas.edu/bbcswebdav/pid-6774510-dt-content-rid-154441478_1/xid-154441478_1">[Slides]</a> 
+            
+                <a href="https://cometmail.sharepoint.com/sites/SE43670012222/Shared%20Documents/General/Recordings/View%20Only/SE%204367.001%20Software%20Testing%20Verification%20Validation%20and%20Quality%20Assurance-20220127_113112-Meeting%20Recording.mp4?web=1">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/MutationAnalysis.html">[Book Chapter1]</a>
+                <a href="https://www.fuzzingbook.org/html/Coverage.html">[Book Chapter2]</a>
+                <a href="https://www.microsoft.com/en-us/research/publication/a-theory-of-predicate-complete-test-coverage-and-generation/">[Reading1]</a> 
+                <a href="https://www.computer.org/csdl/magazine/co/1978/04/01646911/13rRUILLkyp">[Reading2]</a> </br>
+                <a href="https://research.google/pubs/pub46584/">[Reading3]</a> 
+                <a href="https://homes.cs.washington.edu/~rjust/publ/industrial_mutation_icst_2018.pdf">[Reading4]</a>
+                <a href="https://homes.cs.washington.edu/~rjust/publ/mutation_testing_practices_icse_2021.pdf">[Reading5]</a>
+        </tr> 
+
+
+        <tr>
+            <td>3.1
+            <td>Feb. 7th
+            <td>Static Program Representation<td><a href="https://elearning.utdallas.edu/bbcswebdav/pid-6782034-dt-content-rid-155084129_1/xid-155084129_1">[Slides]</a> 
+            
+                <a href="https://cometmail.sharepoint.com/sites/SE43670012222/Shared%20Documents/General/Recordings/View%20Only/Meeting%20in%20_General_-20220201_113252-Meeting%20Recording.mp4?web=1">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/ControlFlow.html">[Book Chapter]</a>
+                <a href="https://lcamtuf.blogspot.com/2014/08/binary-fuzzing-strategies-what-works.html">[Reading1]</a> 
+                <a href="https://lcamtuf.blogspot.com/2014/08/a-bit-more-about-american-fuzzy-lop.html">[Reading2]</a>
+                
+             </br>
+        </tr> 
+
+        <tr>
+            <td>3.2
+            <td>Feb. 9th
+            <td>Dataflow Analysis I<td><a href="https://elearning.utdallas.edu/bbcswebdav/pid-6782039-dt-content-rid-155084130_1/xid-155084130_1">[Slides]</a> 
+           
+                <a href="">[Video]</a>   
+                <a href="https://cs.au.dk/~amoeller/spa/spa.pdf">[Book Chapter]</a>
+                <a href="https://llvm.org/docs/LibFuzzer.html">[Reading1]</a> 
+                <a href="https://mboehme.github.io/paper/TSE15.pdf">[Reading2]</a>
+                <a href="https://github.com/mboehme/aflfast">[AFLFast]</a>
+                <a href="https://github.com/aflgo/aflgo">[AFLGo]</a>
+            </br>
+        </tr> 
+
+        <tr>
+            <td>4.1
+            <td>Feb. 14th
+            <td>Dataflow Analysis II<td><a href="https://elearning.utdallas.edu/bbcswebdav/pid-6782204-dt-content-rid-155091096_1/xid-155091096_1">[Slides]</a> 
+           
+                <a href="">[Video]</a>   
+                <a href="https://cs.au.dk/~amoeller/spa/spa.pdf">[Book Chapter]</a>
+                <a href="https://llvm.org/docs/LibFuzzer.html">[Reading1]</a> 
+                <a href="https://mboehme.github.io/paper/TSE15.pdf">[Reading2]</a>
+                <a href="https://github.com/mboehme/aflfast">[AFLFast]</a>
+                <a href="https://github.com/aflgo/aflgo">[AFLGo]</a>
+            </br>
+        </tr> 
+
+        <tr>
+            <td>4.2
+            <td>Feb. 16th
+            <td>Dataflow Analysis III<td><a href="https://elearning.utdallas.edu/bbcswebdav/pid-6784496-dt-content-rid-155347139_1/xid-155347139_1">[Slides]</a> 
+           
+                <a href="">[Video]</a>   
+                <a href="https://cs.au.dk/~amoeller/spa/spa.pdf">[Book Chapter]</a>
+                <a href="https://llvm.org/docs/LibFuzzer.html">[Reading1]</a> 
+                <a href="https://mboehme.github.io/paper/TSE15.pdf">[Reading2]</a>
+                <a href="https://github.com/mboehme/aflfast">[AFLFast]</a>
+                <a href="https://github.com/aflgo/aflgo">[AFLGo]</a>
+            </br>
+        </tr>
+
+        <tr>
+            <td>5.1
+            <td>Feb. 21st
+            <td>Random Testing<td><a href="https://elearning.utdallas.edu/bbcswebdav/pid-6789389-dt-content-rid-155937755_1/xid-155937755_1">[Slides]</a> 
+           
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/Fuzzer.html">[Book Chapter1]</a>
+                <a href="https://lcamtuf.blogspot.com/2014/08/binary-fuzzing-strategies-what-works.html">[Reading1]</a> 
+                <a href="https://lcamtuf.blogspot.com/2014/08/a-bit-more-about-american-fuzzy-lop.html">[Reading2]</a>
+            </br>
+        </tr>
+
+
+        <tr>
+            <td>5.2
+            <td>Feb. 23rd
+            <td>Pointer Analysis I<td><a href="">[Slides]</a> 
+            
+                <a href="https://cs.au.dk/~amoeller/spa/spa.pdf">[Book Chapter1]</a>
+
+                <a href="https://dl.acm.org/doi/abs/10.1145/379605.379665?casa_token=rCko_DIonHgAAAAA:3AIrYUqFhdZEU-4J89qpdVDabDf4_dZmJqP1sIvII_vMKWUtzicth23YqHS3o1_G7zgKcrPzqEbeXg">[Reading1]</a> 
+                <a href="https://dl.acm.org/doi/abs/10.1145/347324.348916">[Reading2]</a> </br> 
+                
+             </br>
+        </tr> 
+
+        <tr>
+            <td>6.1
+            <td>Feb. 28th
+            <td>Pointer Analysis II<td><a href="">[Slides]</a> 
+            
+                <a href="https://cs.au.dk/~amoeller/spa/spa.pdf">[Book Chapter1]</a>
+
+                <a href="https://dl.acm.org/doi/abs/10.1145/379605.379665?casa_token=rCko_DIonHgAAAAA:3AIrYUqFhdZEU-4J89qpdVDabDf4_dZmJqP1sIvII_vMKWUtzicth23YqHS3o1_G7zgKcrPzqEbeXg">[Reading1]</a> 
+                <a href="https://dl.acm.org/doi/abs/10.1145/347324.348916">[Reading2]</a> </br> 
+                
+             </br>
+        </tr> 
+
+        <tr>
+            <td>6.2
+            <td>March 2nd
+            <td>Automated Test Generation<td><a href="">[Slides]</a> 
+            
+                <a href="https://www.fuzzingbook.org/html/APIFuzzer.html">[Book Chapter1]</a>
+
+                <a href="https://mir.cs.illinois.edu/marinov/publications/MilicevicETAL07KoratDemo.pdf">[Reading1]</a> 
+                <a href="https://randoop.github.io/randoop/">[Reading2]</a> </br> 
+                
+             </br>
+        </tr> 
+
+        <tr>
+            <td>7.1
+            <td>March 7th
+            <td>Mid-term Review<td><a href="">[Slides]</a> 
+            
+                
+                
+             </br>
+        </tr> 
+
+        <tr class="cancellation_row">
+            <td>7.2
+            <td>March 9th
+            <td>Mid-term Exam<td>
+            
+                
+                
+             </br>
+        </tr> 
+
+        <!-- <tr class="cancellation_row">
+            <td>7.1
+            <td>March. 1st
+            <td>Mid-term Exam
+                <td>
+            </tr>  
+        <tr> -->
+
+        <tr>    
+            <td>8.1
+            <td>March. 21th
+            <td>Program Input Grammars<td><a href="">[Slides]</a> 
+            
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/Grammars.html">[Book Chapter1]</a>
+
+                <a href="https://chomsky.info/wp-content/uploads/195609-.pdf">[Reading1]</a> 
+                <a href="http://norvig.com/lispy.html">[Reading2]</a> </br>
+        </tr> 
+
+
+        <tr>    
+            <td>8.2
+            <td>March. 23th
+            <td>Grammar-based Testing<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/GrammarFuzzer.html">[Book Chapter]</a>
+                <a href="http://youngwei.com/pdf/REINAM.pdf">[Reading1]</a> 
+                <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/paper_extended.pdf">[Reading2]</a> </br>
+        </tr> 
+
+
+        <!-- <tr>    
+            <td>9.1
+            <td>Feb. 17th
+            <td>Parsing Program Input<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/Parser.html">[Book Chapter]</a>
+                <a href="https://en.wikipedia.org/wiki/Context-free_grammar">[Reading1]</a> 
+                <a href="https://en.wikipedia.org/wiki/LL_parser">[Reading2]</a> </br>
+        </tr>  -->
+
+
+
+        <tr>    
+            <td>9.1
+            <td>March. 28th
+            <td>Probabilistic Testing<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/ProbabilisticGrammarFuzzer.html">[Book Chapter1]</a>
+                <a href="https://www.fuzzingbook.org/html/Parser.html">[Book Chapter2]</a>
+                <a href="http://mp.binaervarianz.de/TreeFuzz_TR_Nov2016.pdf">[Reading1]</a> 
+                <a href="https://arxiv.org/abs/1812.07525">[Reading2]</a> 
+                <a href="https://en.wikipedia.org/wiki/Context-free_grammar">[Reading2]</a> 
+                <a href="https://en.wikipedia.org/wiki/LL_parser">[Reading3]</a>
+            </br>
+        </tr> 
+
+        <tr>    
+            <td>9.2
+            <td>March. 30th
+            <td>Delta Debugging I<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/Reducer.html">[Book Chapter]</a>
+                <a href="https://www.drmaciver.com/2019/01/notes-on-test-case-reduction/">[Reading1]</a> 
+                <a href="http://web2.cs.columbia.edu/~junfeng/09fa-e6998/papers/delta-debug.pdf">[Reading2]</a> </br>
+        </tr> 
+
+        <!-- <tr class="cancellation_row">
+            <td>7.1
+            <td>March. 1st
+            <td>Mid-term Exam
+                <td>
+            </tr>  
+        <tr> -->
+
+            <tr>    
+                <td>10.1
+                <td>April. 4th
+                <td>Delta Debugging II<td><a href="">[Slides]</a> 
+                    <a href="">[Video]</a>   
+                    <a href="https://www.fuzzingbook.org/html/Reducer.html">[Book Chapter]</a>
+                    <a href="https://www.drmaciver.com/2019/01/notes-on-test-case-reduction/">[Reading1]</a> 
+                    <a href="http://web2.cs.columbia.edu/~junfeng/09fa-e6998/papers/delta-debug.pdf">[Reading2]</a> </br>
+            </tr> 
+
+            <td>10.2
+            <td>April. 6th
+            <td>Search-Based Testing <td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/SearchBasedFuzzer.html">[Book Chapter]</a>
+                <a href="https://en.wikipedia.org/wiki/Search-based_software_engineering">[Reading1]</a> 
+                <a href="https://ieeexplore.ieee.org/abstract/document/7102580">[Reading2]</a> </br>
+        </tr> 
+
+        <tr>    
+            <td>11.1
+            <td>April. 11th
+            <td>Information Flow Analysis<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/InformationFlow.html">[Book Chapter]</a>
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+        <tr>    
+            <td>11.2
+            <td>April. 13th
+            <td>Symbolic Execution (1)<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/ConcolicFuzzer.html">[Book Chapter]</a>
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+        <!-- <tr class="cancellation_row">
+            <td>9
+            <td>March 14 – 20
+            <td>Spring Break!
+                <td>
+            </tr>  
+        <tr> -->
+
+        <tr>    
+            <td>12.1
+            <td>April 18th
+            <td>Symbolic Execution (2)<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/SymbolicFuzzer.html">[Book Chapter]</a>
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+
+        <tr>    
+            <td>12.2
+            <td>April 20th
+            <td>Statistical Debugging<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.debuggingbook.org/html/StatisticalDebugger.html">[Book Chapter]</a>
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+
+        <!-- <tr>    
+            <td>11.1
+            <td>March 29th
+            <td>Testing Graphical User Interfaces<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                <a href="https://www.fuzzingbook.org/html/GUIFuzzer.html">[Book Chapter]</a>
+                <a href="https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34">[Reading1]</a> 
+                <a href="http://youngwei.com/pdf/ORBIT.pdf">[Reading2]</a> </br>
+        </tr> 
+
+        <tr>    
+            <td>11.2
+            <td>March 31st
+            <td>Mobile Testing<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr>  -->
+
+        <tr>    
+            <td>13.1
+            <td>April 25th
+            <td>Fundermentals of Testing ML models<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                
+                <a href="https://ckaestne.medium.com/machine-learning-in-a-nutshell-for-software-engineers-a091b2e07596">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+
+        <tr>    
+            <td>13.2
+            <td>April 27th
+            <td>Robustness Testing<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+
+        <!-- <tr>    
+            <td>13.1
+            <td>April 12th
+            <td>Testing NLP models<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+        <tr>    
+            <td>13.2
+            <td>April 14th
+            <td>Game Testing<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+        <tr>    
+            <td>14.1
+            <td>April 19th
+            <td>Energy Testing (1)<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+        <tr>    
+            <td>14.2
+            <td>April 21st
+            <td>Energy Testing (2)<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr>  -->
+
+
+        <tr>    
+            <td>14.1
+            <td>May 2nd
+            <td>Final Review<td><a href="">[Slides]</a> 
+                <a href="">[Video]</a>   
+                
+                <a href="">[Reading1]</a> 
+                <a href="">[Reading2]</a> </br>
+        </tr> 
+
+        <tr class="cancellation_row">
+            <td>14.2
+            <td>May 4th
+            <td>Final Exam
+                <td>
+            </tr>  
+        <tr>
+
+
+        <!-- <tr>    
+            <td>4.2
+            <td>Feb. 8th
+            <td>Fuzzing (2) <a href="https://elearning.utdallas.edu/bbcswebdav/pid-4022060-dt-content-rid-100628541_1/courses/2212-UTDAL-SE-4367-SEC001-22194/Lecture%204.2.pdf">[Slides]</a> <a href="https://web.microsoftstream.com/video/dba073b0-70ca-43da-bcad-0ac238fec784">[Video]</a>   <a href="https://arxiv.org/abs/1808.09700">[Reading1]</a> <a href="http://www.pl-enthusiast.net/2018/08/23/evaluating-empirical-evaluations-for-fuzz-testing/">[Reading2]</a> <a href="https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html">[Reading3]</a> </br>
+        </tr>  -->
+
+ 
+
+        </table>
+<!--        <br>Graph Cuts and Efficient MAP inference
+        </tr>
+        <!--
+-->
+    </div>
+    
+</div>
+
+</body>
+</html>
