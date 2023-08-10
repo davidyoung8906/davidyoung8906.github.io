@@ -29,9 +29,9 @@
       <guid>http://youngwei.com/home/about/</guid>
       <description>Biography I am an assistant professor in the Department of Computer Science at the University of Texas at Dallas. I teach and do research on software engineering and security.
 Current Focused Research Areas:
- SE/Security for Machine Learning (PerInv, MRV, Telemade, NMTtest, ILFO, DENAS, EREBA, NICGSlowDown, NMTSloth, DeepPerform, TestAug)
- Mobile/Embedded System Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, CLAP[1], EnMobile, MalScan, iRuler, TextExerciser, IntDroid, HomDroid, IFDroid )
- Intelligent Software Testing/Security (ORBIT, WCTester[1][2], NMTtest[1], SemRegex[1], REINAM, TextExerciser, SCDetector, DBAntiPattern, UI-Flaky, WebEvo, Vet, GLIB, GameCompatStudy, VulCNN)   I received my Ph.</description>
+ Deployment of Deep Learning on the Edge (ILFO, EREBA, NICGSlowDown, NMTSloth, DeepPerform, EarlyAttack, AntiNODE, DyCL, SAME)
+ Testing/Security for Deep Learning (PerInv, MRV, Telemade, NMTtest, DENAS, CorrGAN, TestAug)
+ Mobile Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, PERation,CLAP, EnMobile, MalScan, iRuler, TextExerciser, IntDroid, HomDroid, IFDroid )</description>
     </item>
     
     <item>
@@ -41,11 +41,10 @@ Current Focused Research Areas:
       
       <guid>http://youngwei.com/home/students/</guid>
       <description>Ph.D. Students
- Mirazul Haque (Jan 19-) [CVPR 2020] [ICSE 2022] [CVPR 2022] [FSE 2022] [ASE 2022] [COLING 2022] [CVPR 2023]
- Simin Chen (Jan 19-) 1 [FSE 2020] [CVPR 2022] [IJCAI 2022] [FSE 2022] [ASE 2022] [ISSTA 2023] [CVPR 2023]
+ Mirazul Haque (Jan 19-) [CVPR 2020] [ICSE 2022] [CVPR 2022] [CVPR-W 2022] [FSE 2022] [ASE 2022] [COLING 2022] [InterSpeech 2023] [ICCV-W 2023 * 2] [CVPR 2023]
+ Simin Chen (Jan 19-) 1 [FSE 2020] [CVPR 2022] [IJCAI 2022] [FSE 2022] [ASE 2022] [ICCV-W 2023] [CVPR 2023] [ACL 2023] [InterSpeech 2023] [ISSTA 2023]
  Zihe Song (Jan 20-) [ICSE 2021] [CVPR 2022] [FSE 2022] [ISSRE 2022]
- Ravishka Rathnasuriya (Dec 21-) Jaeseong Lee (Aug 22-) 2
-    Graduated Students</description>
+ Ravishka Rathnasuriya (Dec 21-) Jaeseong Lee (Aug 22-) 2</description>
     </item>
     
     <item>

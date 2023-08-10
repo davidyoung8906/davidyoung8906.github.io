@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="The deep learning (DL) compiler is a fundamental piece of infrastructure that enables the deployment of deep neural networks on various hardware platforms (e.g, mobile devices and Raspberry Pi). A DL compiler translates DNN programs written with high-level DL frameworks (e.g, PyTorch and TensorFlow) into portable executables; deployed host programs can then flexibly run these executables. Existing DL compilers treat neural network programs as static data flow graphs, which presume a pre-determined DNN model architecture. However, this assumption does not hold in modern dynamic neural networks (DyNNs). As a result, existing DL compilers cannot compile DyNNs into correct executables. To bridge this gap, we propose DyCL, a flexible approach that enables existing DL compilers for compiling DyNNs. DyCL handles the dynamic nature of the DyNNs by introducing a compilation mechanism that redistributes the original programs&#39; control and data flow during compilation. Specifically, DyCL applies program analysis and transformation techniques to transform an dynamic neural network into multiple sub-neural networks. Each sub-neural network does not contain conditional statements and is compiled separately. DyCL then synthesizes a host API to model the control flow of the DyNNs and invocations of the sub-neural networks. Our evaluation demonstrates that DyCL can 100% successfully compile all dynamic neural networks and the compiled executables run 1.12X to 20.21X faster than the original DyNNs runs on the general-purpose DL frameworks.">
+  <meta name="description" content="Recent increases in deploying deep neural networks (DNNs) on resource-constrained devices, combined with the observation that not all input samples require the same amount of computations, have sparked interest in input- adaptive dynamic neural networks (DyNNs). These DyNNs bring in more efficient inferences and enable deploying DNNs on resource-constrained devices e.g. mobile devices. In this work, we study a new vulnerability about DyNNs: can adversaries manipulate a DyNN to provide a false sense of efficiency? To answer this question, we design EfficFrog, an adversarial attack that injects univer- sal efficiency backdoors in DyNNs. EfficFrog poison only a minimal percentage of DyNNs training data to in- ject a backdoor trigger into DyNNs. During the infer- ence time, EfficFrog can slow down backdoored DyNNs and abuse the computational resources of systems running DyNNs by adding the trigger to any inputs - an availability threat analogous to the denial-of-service attacks. We eval- uate EfficFrog on three DNN backbone architectures (based on VGG16, MobileNet, and ResNet56) on two popu- lar datasets (CIFAR-10 and Tiny ImageNet) We show that a EfficFrog reduces the efficiency of DyNNs on triggered input samples while keeping almost the same efficiency on clean samples.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://youngwei.com/publication/dycl/">
+  <link rel="alternate" hreflang="en-us" href="http://youngwei.com/publication/efficfrog/">
 
   
 
@@ -82,7 +82,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://youngwei.com/publication/dycl/">
+  <link rel="canonical" href="http://youngwei.com/publication/efficfrog/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -90,21 +90,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/davidyoung8906">
   
   <meta property="og:site_name" content="Wei Yang">
-  <meta property="og:url" content="http://youngwei.com/publication/dycl/">
-  <meta property="og:title" content="DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization | Wei Yang">
-  <meta property="og:description" content="The deep learning (DL) compiler is a fundamental piece of infrastructure that enables the deployment of deep neural networks on various hardware platforms (e.g, mobile devices and Raspberry Pi). A DL compiler translates DNN programs written with high-level DL frameworks (e.g, PyTorch and TensorFlow) into portable executables; deployed host programs can then flexibly run these executables. Existing DL compilers treat neural network programs as static data flow graphs, which presume a pre-determined DNN model architecture. However, this assumption does not hold in modern dynamic neural networks (DyNNs). As a result, existing DL compilers cannot compile DyNNs into correct executables. To bridge this gap, we propose DyCL, a flexible approach that enables existing DL compilers for compiling DyNNs. DyCL handles the dynamic nature of the DyNNs by introducing a compilation mechanism that redistributes the original programs&#39; control and data flow during compilation. Specifically, DyCL applies program analysis and transformation techniques to transform an dynamic neural network into multiple sub-neural networks. Each sub-neural network does not contain conditional statements and is compiled separately. DyCL then synthesizes a host API to model the control flow of the DyNNs and invocations of the sub-neural networks. Our evaluation demonstrates that DyCL can 100% successfully compile all dynamic neural networks and the compiled executables run 1.12X to 20.21X faster than the original DyNNs runs on the general-purpose DL frameworks.">
+  <meta property="og:url" content="http://youngwei.com/publication/efficfrog/">
+  <meta property="og:title" content="The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection | Wei Yang">
+  <meta property="og:description" content="Recent increases in deploying deep neural networks (DNNs) on resource-constrained devices, combined with the observation that not all input samples require the same amount of computations, have sparked interest in input- adaptive dynamic neural networks (DyNNs). These DyNNs bring in more efficient inferences and enable deploying DNNs on resource-constrained devices e.g. mobile devices. In this work, we study a new vulnerability about DyNNs: can adversaries manipulate a DyNN to provide a false sense of efficiency? To answer this question, we design EfficFrog, an adversarial attack that injects univer- sal efficiency backdoors in DyNNs. EfficFrog poison only a minimal percentage of DyNNs training data to in- ject a backdoor trigger into DyNNs. During the infer- ence time, EfficFrog can slow down backdoored DyNNs and abuse the computational resources of systems running DyNNs by adding the trigger to any inputs - an availability threat analogous to the denial-of-service attacks. We eval- uate EfficFrog on three DNN backbone architectures (based on VGG16, MobileNet, and ResNet56) on two popu- lar datasets (CIFAR-10 and Tiny ImageNet) We show that a EfficFrog reduces the efficiency of DyNNs on triggered input samples while keeping almost the same efficiency on clean samples.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2023-08-08T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2023-03-02T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2023-08-08T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2023-03-02T00:00:00&#43;00:00">
   
 
   
 
-  <title>DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization | Wei Yang</title>
+  
+
+  <title>The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection | Wei Yang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -262,10 +262,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization</h1>
+    <h1 itemprop="name">The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection</h1>
     <span class="pub-authors" itemprop="author">
       
-      Simin Chen, Shiyi Wei, Cong Liu, Wei Yang
+      Simin Chen, Hanlin Chen, Mirazul Haque, Cong Liu, Wei Yang
       
     </span>
     <span class="pull-right">
@@ -274,35 +274,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=DyCL%3a%20Dynamic%20Neural%20Network%20Compilation%20Via%20Program%20Rewriting%20and%20Graph%20Optimization&amp;url=http%3a%2f%2fyoungwei.com%2fpublication%2fdycl%2f"
+         href="https://twitter.com/intent/tweet?text=The%20Dark%20Side%20of%20Dynamic%20Routing%20Neural%20Networks%3a%20Towards%20Efficiency%20Backdoor%20Injection&amp;url=http%3a%2f%2fyoungwei.com%2fpublication%2fefficfrog%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fyoungwei.com%2fpublication%2fdycl%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fyoungwei.com%2fpublication%2fefficfrog%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fyoungwei.com%2fpublication%2fdycl%2f&amp;title=DyCL%3a%20Dynamic%20Neural%20Network%20Compilation%20Via%20Program%20Rewriting%20and%20Graph%20Optimization"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fyoungwei.com%2fpublication%2fefficfrog%2f&amp;title=The%20Dark%20Side%20of%20Dynamic%20Routing%20Neural%20Networks%3a%20Towards%20Efficiency%20Backdoor%20Injection"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fyoungwei.com%2fpublication%2fdycl%2f&amp;title=DyCL%3a%20Dynamic%20Neural%20Network%20Compilation%20Via%20Program%20Rewriting%20and%20Graph%20Optimization"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fyoungwei.com%2fpublication%2fefficfrog%2f&amp;title=The%20Dark%20Side%20of%20Dynamic%20Routing%20Neural%20Networks%3a%20Towards%20Efficiency%20Backdoor%20Injection"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=DyCL%3a%20Dynamic%20Neural%20Network%20Compilation%20Via%20Program%20Rewriting%20and%20Graph%20Optimization&amp;body=http%3a%2f%2fyoungwei.com%2fpublication%2fdycl%2f">
+         href="mailto:?subject=The%20Dark%20Side%20of%20Dynamic%20Routing%20Neural%20Networks%3a%20Towards%20Efficiency%20Backdoor%20Injection&amp;body=http%3a%2f%2fyoungwei.com%2fpublication%2fefficfrog%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -316,7 +316,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The deep learning (DL) compiler is a fundamental piece of infrastructure that enables the deployment of deep neural networks on various hardware platforms (e.g, mobile devices and Raspberry Pi). A DL compiler translates DNN programs written with high-level DL frameworks (e.g, PyTorch and TensorFlow) into portable executables; deployed host programs can then flexibly run these executables. Existing DL compilers treat neural network programs as static data flow graphs, which presume a pre-determined DNN model architecture. However, this assumption does not hold in modern dynamic neural networks (DyNNs). As a result, existing DL compilers cannot compile DyNNs into correct executables. To bridge this gap, we propose DyCL, a flexible approach that enables existing DL compilers for compiling DyNNs. DyCL handles the dynamic nature of the DyNNs by introducing a compilation mechanism that redistributes the original programs&rsquo; control and data flow during compilation. Specifically, DyCL applies program analysis and transformation techniques to transform an dynamic neural network into multiple sub-neural networks. Each sub-neural network does not contain conditional statements and is compiled separately. DyCL then synthesizes a host API to model the control flow of the DyNNs and invocations of the sub-neural networks. Our evaluation demonstrates that DyCL can 100% successfully compile all dynamic neural networks and the compiled executables run 1.12X to 20.21X faster than the original DyNNs runs on the general-purpose DL frameworks.</p>
+    <p class="pub-abstract" itemprop="text">Recent increases in deploying deep neural networks (DNNs) on resource-constrained devices, combined with the observation that not all input samples require the same amount of computations, have sparked interest in input- adaptive dynamic neural networks (DyNNs). These DyNNs bring in more efficient inferences and enable deploying DNNs on resource-constrained devices e.g. mobile devices. In this work, we study a new vulnerability about DyNNs: can adversaries manipulate a DyNN to provide a false sense of efficiency? To answer this question, we design EfficFrog, an adversarial attack that injects univer- sal efficiency backdoors in DyNNs. EfficFrog poison only a minimal percentage of DyNNs training data to in- ject a backdoor trigger into DyNNs. During the infer- ence time, EfficFrog can slow down backdoored DyNNs and abuse the computational resources of systems running DyNNs by adding the trigger to any inputs - an availability threat analogous to the denial-of-service attacks. We eval- uate EfficFrog on three DNN backbone architectures (based on VGG16, MobileNet, and ResNet56) on two popu- lar datasets (CIFAR-10 and Tiny ImageNet) We show that a EfficFrog reduces the efficiency of DyNNs on triggered input samples while keeping almost the same efficiency on clean samples.</p>
     
 
     
@@ -345,7 +345,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">In <em>The ACM SIGSOFT International Symposium on Software Testing and Analysis</em>.</div>
+          <div class="col-xs-12 col-sm-9">In <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition</em>.</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -359,7 +359,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            August, 2023
+            March, 2023
           </div>
         </div>
       </div>
@@ -379,7 +379,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://youngwei.com/pdf/DyCL.pdf" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="http://youngwei.com/pdf/EfficFrog.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -387,7 +387,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/anonymousGithub2022/DyCL" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://github.com/SeekingDream/CVPR23_EfficFrog" target="_blank" rel="noopener">
   Code
 </a>
 

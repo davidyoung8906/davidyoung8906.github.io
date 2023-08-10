@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization</title>
+      <link>http://youngwei.com/publication/dycl/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/dycl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SlothSpeech: Denial-of-service Attack Against Speech Recognition Models</title>
+      <link>http://youngwei.com/publication/slothspeech/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/slothspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AntiNODE: Evaluating Efficiency Robustness of Neural ODEs</title>
+      <link>http://youngwei.com/publication/nodeattack/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/nodeattack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Neural Network is All You Need: Understanding the Robustness of Dynamic Mechanisms in Neural Networks</title>
+      <link>http://youngwei.com/publication/earlyattack/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/earlyattack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection</title>
       <link>http://youngwei.com/publication/efficfrog/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
@@ -20,11 +56,11 @@
     </item>
     
     <item>
-      <title>DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization</title>
-      <link>http://youngwei.com/publication/dycl/</link>
-      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Dynamic Transformers Provide a False Sense of Efficiency</title>
+      <link>http://youngwei.com/publication/same/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://youngwei.com/publication/dycl/</guid>
+      <guid>http://youngwei.com/publication/same/</guid>
       <description></description>
     </item>
     
@@ -106,42 +142,6 @@
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/ereba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VulCNN: An Image-inspired Scalable Vulnerability Detection System</title>
-      <link>http://youngwei.com/publication/vulcnn/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/vulcnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vet: Identifying and Avoiding UI Exploration Tarpits</title>
-      <link>http://youngwei.com/publication/vet/</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/vet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GLIB: Towards Automated Test Oracle for Graphically-Rich Applications</title>
-      <link>http://youngwei.com/publication/glib/</link>
-      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/glib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HomDroid: Detecting Android Covert Malware by Social-Network Homophily Analysis</title>
-      <link>http://youngwei.com/publication/homdroid/</link>
-      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/homdroid/</guid>
       <description></description>
     </item>
     

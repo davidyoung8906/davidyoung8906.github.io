@@ -12,5 +12,14 @@
 	<atom:link href="http://youngwei.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>http://youngwei.com/post/internproject2023/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/post/internproject2023/</guid>
+      <description>import libr print(&#39;hello&#39;)  Overview  The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a no-code solution (write in Markdown and customize with YAML parameters) and having flexibility to later add even deeper personalization with HTML and CSS You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more</description>
+    </item>
+    
   </channel>
 </rss>
