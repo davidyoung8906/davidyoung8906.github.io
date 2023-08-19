@@ -28,10 +28,7 @@
       
       <guid>http://youngwei.com/home/about/</guid>
       <description>Biography I am an assistant professor in the Department of Computer Science at the University of Texas at Dallas. I teach and do research on software engineering and security.
-Current Focused Research Areas:
- Deployment of Deep Learning on the Edge (ILFO, EREBA, NICGSlowDown, NMTSloth, DeepPerform, EarlyAttack, AntiNODE, DyCL, SAME)
- Testing/Security for Deep Learning (PerInv, MRV, Telemade, NMTtest, DENAS, CorrGAN, TestAug)
- Mobile Security (WHYPER, Pluto, AppContext[1][2][3], Telemade, MRV, PERation,CLAP, EnMobile, MalScan, iRuler, TextExerciser, IntDroid, HomDroid, IFDroid )</description>
+-- -- I received my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign in 2018, advised by Prof. Carl A. Gunter and Prof. Tao Xie, an M.S. in Computer Science from North Carolina State University in 2013, advised by Prof.</description>
     </item>
     
     <item>
@@ -46,6 +43,16 @@ Mirazul is expected to graduate 2023 Fall!
 First Employment: J.P. Morgan AI Research
  Simin Chen (Jan 19-) 1 [FSE 2020] [CVPR 2022] [IJCAI 2022] [FSE 2022] [ASE 2022] [ICCV-W 2023] [CVPR 2023] [ACL 2023] [InterSpeech 2023] [ISSTA 2023]
 Simin is on the job market.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://youngwei.com/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://youngwei.com/home/research/</guid>
+      <description>I am broadly interested in topics related to software engineering and security.
+-- -- Efficiency Robustness My current research is primarily driven by the need to adapt AI on edge devices such as mobile devices, IoT devices and autonomous vehicles. The line of work on efficiency robustness, pioneered by our group in 2019, began with the observation that different inputs may incur varied amount of computation costs on neural networks.</description>
     </item>
     
     <item>
