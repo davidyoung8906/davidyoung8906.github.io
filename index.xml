@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models</title>
+      <link>http://youngwei.com/publication/ppm/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/ppm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WEFix: Intelligent Automatic Generation of Explicit Waits for Efficient Web End-to-End Flaky Tests</title>
+      <link>http://youngwei.com/publication/wefix/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/wefix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IMPACT ANALYSIS OF INFERENCE TIME ATTACK OF PERCEPTION SENSORS ON AUTONOMOUS VEHICLES</title>
       <link>http://youngwei.com/publication/slothav/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/nmtsloth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning to Reverse DNNs from AI Programs Automatically</title>
-      <link>http://youngwei.com/publication/reversednn/</link>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/reversednn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models</title>
-      <link>http://youngwei.com/publication/nicgslowdown/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/nicgslowdown/</guid>
       <description></description>
     </item>
     
