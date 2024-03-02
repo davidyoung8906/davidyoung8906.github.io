@@ -95,9 +95,9 @@
   <meta property="og:description" content="In recent times, a plethora of Large Code Generation Models (LCGMs) have been proposed, showcasing significant potential in assisting developers with complex programming tasks. Within the surge of LCGM proposals, a critical aspect of code generation research involves effectively benchmarking the programming capabilities of each model. Benchmarking LCGMs necessitates the creation of a diverse programming problem set, comprising the prompt, canonical solution, and test inputs. The existing methods for constructing such a problem set can be categorized into two main types: manually-based and perturbation-based. However, both these methods exhibit major limitations. Firstly, manually-based methods require substantial human effort and are not easily scalable. Moreover, programming problem sets created manually struggle to maintain long-term data integrity due to the greedy training data collection mechanism in LCGMs. On the other hand, perturbation-based approaches primarily produce semantically homogeneous problems, resulting in generated programming problems with identical Canonical Solutions to the seed problem. These methods also tend to introduce typos to the prompt, easily detectable by IDEs, rendering them unrealistic. Addressing the aforementioned limitations presents several challenges: (1) How to automatically generate semantically diverse Canonical Solutions, (2) how to ensure long-term data integrity, and (3) how to generate grammatically correct programming problems. To tackle the first challenge, our key insight stems from viewing a program as a mapping from the input domain to the output domain. The output of one program can be utilized as the input for another. Building on this insight, we propose programming problem merging, which combines two existing programming problems to create semantically diverse ones. In addressing the second challenge, we introduce randomness to our programming problem generation process. By defining a large random search space, our tool can probabilistically guarantee no data repetition with two random trials with high confidence. To tackle the third challenge, we propose the concept of a Lambda Programming Problem, comprising a concise one-sentence task description in natural language accompanied by a corresponding program implementation. As the proposed task description is grammatically correct, our tool ensures the new program prompt is also grammatically correct. Additionally, the tool leverages return value type analysis to verify the correctness of newly created Canonical Solutions. In our empirical evaluation, we utilize our tool on two widely-used datasets and compare it against six baseline methods using eight code generation models. The results vividly demonstrate the effectiveness of our tool in generating challenging, diverse, and natural coding problems, surpassing the baselines.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2024-01-23T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2024-02-23T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2024-01-23T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2024-02-23T00:00:00&#43;00:00">
   
 
   
@@ -378,7 +378,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            January, 2024
+            February, 2024
           </div>
         </div>
       </div>
@@ -398,13 +398,17 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://youngwei.com/pdf/PPM.pdf" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2401.15545" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 
+
+<a class="btn btn-primary btn-outline" href="https://github.com/SeekingDream/PPM" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 

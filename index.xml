@@ -11,9 +11,53 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Computer Science Research Internship Program at UT Dallas</title>
+      <link>http://youngwei.com/post/internproject2024/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/post/internproject2024/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;We are excited to invite students from across the globe to apply for our research internship program at the University of Texas at Dallas. This program is led by distinguished professors including &lt;a href=&#34;https://www.yapengtian.com/&#34; target=&#34;_blank&#34;&gt;Yapeng Tian&lt;/a&gt;, &lt;a href=&#34;https://xinyadu.github.io/&#34; target=&#34;_blank&#34;&gt;Xinya Du&lt;/a&gt;, &lt;a href=&#34;https://yunhuiguo.github.io/&#34; target=&#34;_blank&#34;&gt;Yunhui Guo&lt;/a&gt;, &lt;a href=&#34;https://czyssrs.github.io/&#34; target=&#34;_blank&#34;&gt;Zhiyu Chen&lt;/a&gt;, &lt;a href=&#34;https://yi-ding.me/&#34; target=&#34;_blank&#34;&gt;Yi Ding&lt;/a&gt;, &lt;a href=&#34;https://libingzheren.github.io/people.html&#34; target=&#34;_blank&#34;&gt;Bingzhe Li&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/xinda/&#34; target=&#34;_blank&#34;&gt;Xinda Wang&lt;/a&gt; and &lt;a href=&#34;http://youngwei.com/&#34; target=&#34;_blank&#34;&gt;Wei Yang&lt;/a&gt;. Our research spans a wide array of topics such as large language models, multimodal machine learning, natural language processing, machine learning systems, high-performance computing, storage systems, software engineering, security, computer vision, mobile computing, and robotics.&lt;/p&gt;
+
+&lt;h2 id=&#34;application-details&#34;&gt;Application Details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Deadline&lt;/strong&gt;: Applications are open until April 1 (23:59:59 AoE time zone) but will remain open until all positions are filled.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project Collaboration&lt;/strong&gt;: Selected students will collaborate remotely with professors on projects tailored to their mutual interests. Onsite internships may be arranged on a case-by-case basis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: Although the positions are unpaid, students gain invaluable research experience, potential publications, and support for graduate program applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Past Success&lt;/strong&gt;: Our alumni have been accepted into prestigious graduate programs worldwide. For more details, visit &lt;a href=&#34;http://youngwei.com/#students&#34; target=&#34;_blank&#34;&gt;Professor Yang&amp;rsquo;s Students&lt;/a&gt;, &lt;a href=&#34;https://www.yapengtian.com/index.html#group&#34; target=&#34;_blank&#34;&gt;Professor Tian&amp;rsquo;s Group&lt;/a&gt;, &lt;a href=&#34;https://xinyadu.github.io/advising.html&#34; target=&#34;_blank&#34;&gt;Professor Du&amp;rsquo;s Advising&lt;/a&gt;, and &lt;a href=&#34;https://yunhuiguo.github.io/&#34; target=&#34;_blank&#34;&gt;Professor Guo&amp;rsquo;s Team&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
+
+&lt;p&gt;Submit your application through our &lt;a href=&#34;https://forms.gle/i981iwTsmCzLA4Z48&#34; target=&#34;_blank&#34;&gt;Online Form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;:
+- A link to your CV (preferably on Google Drive).
+- Reference contacts, if available.
+- Evidence of English proficiency (TOEFL, IELTS, etc.) is appreciated but not mandatory.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-ut-dallas&#34;&gt;About UT Dallas&lt;/h2&gt;
+
+&lt;p&gt;UT Dallas is renowned for its youthful vigor and impressive accolades, including:
+- 1st in the U.S. among universities under 50 years old.
+- Top rankings in Software Engineering, AI, Natural Language Processing, and more according to CSrankings.org and US News.&lt;/p&gt;
+
+&lt;p&gt;Our faculty have received numerous awards, such as NSF CAREER Award, ACM SIGSOFT Distinguished Paper Award, the Spotlight Rising Star in Data Science, Cyber-Physical Systems Rising Star, and many more, reflecting the high-impact research conducted here.&lt;/p&gt;
+
+&lt;h2 id=&#34;join-us&#34;&gt;Join Us&lt;/h2&gt;
+
+&lt;p&gt;This summer, immerse yourself in a vibrant research environment at UT Dallas. Work alongside leading scholars, contribute to impactful projects, and take a significant step toward your academic and professional goals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models</title>
       <link>http://youngwei.com/publication/ppm/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/ppm/</guid>
       <description></description>
@@ -25,6 +69,15 @@
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/wefix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MENDNet: Just-in-time Fault Detection and Mitigation in AI Systems with Uncertainty Quantification and Multi-Exit Networks</title>
+      <link>http://youngwei.com/publication/mendnet/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/mendnet/</guid>
       <description></description>
     </item>
     
@@ -124,24 +177,6 @@
       <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/deepperform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TestAug: A Framework for Augmenting Capability-based NLP Tests</title>
-      <link>http://youngwei.com/publication/testaug/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/testaug/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NMTSloth: Understanding and Testing Efficiency Degradation of Neural Machine Translation Systems</title>
-      <link>http://youngwei.com/publication/nmtsloth/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/nmtsloth/</guid>
       <description></description>
     </item>
     

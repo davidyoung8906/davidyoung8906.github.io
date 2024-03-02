@@ -15,7 +15,7 @@
     <item>
       <title>PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models</title>
       <link>http://youngwei.com/publication/ppm/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/ppm/</guid>
       <description></description>
@@ -27,6 +27,15 @@
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/wefix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MENDNet: Just-in-time Fault Detection and Mitigation in AI Systems with Uncertainty Quantification and Multi-Exit Networks</title>
+      <link>http://youngwei.com/publication/mendnet/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/mendnet/</guid>
       <description></description>
     </item>
     

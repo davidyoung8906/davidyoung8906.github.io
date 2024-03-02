@@ -4,8 +4,16 @@
     
     <url>
     
+      <loc>http://youngwei.com/post/internproject2024/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://youngwei.com/publication/ppm/</loc>
-      <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+      <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,6 +22,14 @@
     
       <loc>http://youngwei.com/publication/wefix/</loc>
       <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/publication/mendnet/</loc>
+      <lastmod>2024-01-08T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -581,7 +597,7 @@
     <url>
     
       <loc>http://youngwei.com/publication_types/1/</loc>
-      <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+      <lastmod>2024-02-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -624,6 +640,15 @@
     
     <url>
     
+      <loc>http://youngwei.com/tags/computer-vision/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://youngwei.com/categories/demo/</loc>
       <lastmod>2020-12-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -633,8 +658,80 @@
     
     <url>
     
+      <loc>http://youngwei.com/tags/high-performance-computing/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/tags/large-language-models/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/tags/machine-learning/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/tags/mobile-computing/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://youngwei.com/publication_types/</loc>
-      <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+      <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/categories/research-opportunities/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/tags/security/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/tags/software-engineering/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://youngwei.com/categories/summer-programs/</loc>
+      <lastmod>2024-03-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
