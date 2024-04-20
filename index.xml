@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>HateModerate: Testing Hate Speech Detectors against Content Moderation Policies</title>
+      <link>http://youngwei.com/publication/hatemoderate/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/hatemoderate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HawkEyes: Spotting and Evading Instruction Disalignments of LLMs</title>
+      <link>http://youngwei.com/publication/hawkeyes/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/hawkeyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computer Science Research Internship Program at UT Dallas</title>
       <link>http://youngwei.com/post/internproject2024/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
@@ -60,6 +78,15 @@
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/ppm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeciX: Explain Deep Learning Based Code Generation Applications</title>
+      <link>http://youngwei.com/publication/decix/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/decix/</guid>
       <description></description>
     </item>
     
@@ -150,33 +177,6 @@
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://youngwei.com/publication/same/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contrastive Learning for Robust Android Malware Familial Classification</title>
-      <link>http://youngwei.com/publication/ifdroid/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/ifdroid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Empirical Analysis of Compatibility Issues for Industrial Mobile Games</title>
-      <link>http://youngwei.com/publication/gamecompatstudy/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/gamecompatstudy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DeepPerform: An Efficient Approach for Performance Testing of Resource-Constrained Neural Networks</title>
-      <link>http://youngwei.com/publication/deepperform/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://youngwei.com/publication/deepperform/</guid>
       <description></description>
     </item>
     
