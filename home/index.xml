@@ -27,7 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://youngwei.com/home/about/</guid>
-      <description>Biography I am an assistant professor in the Department of Computer Science at the University of Texas at Dallas. I teach and do research on software engineering and security.
+      <description>Biography I am an associate professor in the Department of Computer Science at the University of Texas at Dallas. I teach and do research on software engineering and security.
 -- -- I received my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign in 2018, advised by Prof. Carl A. Gunter and Prof. Tao Xie, an M.S. in Computer Science from North Carolina State University in 2013, advised by Prof.</description>
     </item>
     
@@ -38,11 +38,11 @@
       
       <guid>http://youngwei.com/home/students/</guid>
       <description>Ph.D. Students
- Simin Chen (Jan 19-) 1 [FSE 2020] [CVPR 2022] [IJCAI 2022] [FSE 2022] [ASE 2022] [ICCV-W 2023] [CVPR 2023] [ACL 2023] [InterSpeech 2023] [ISSTA 2023] [TRBAM 2024] [FSE 2024]
-Simin is on the job market. Contact him!
- Zihe Song (Jan 20-) [ICSE 2021] [CVPR 2022] [FSE 2022] [ISSRE 2022] [WWW 2024]
- Ravishka Rathnasuriya (Dec 21-) Jaeseong Lee (Aug 22-) 2
-    Graduated Students</description>
+ Zihe Song (Jan 20-) [ICSE 2021] [CVPR 2022] [FSE 2022] [ISSRE 2022] [LLM4Code 2024] [WWW 2024] [ISSTA 2024] [MobileSoft 2025] [ASPLOS 2025] [ISSTA 2025]
+ Ravishka Rathnasuriya (Dec 21-) [NAACL 2024] [MobileSoft 2025] [ICSE 2025] [ISSTA 2025]
+ Zexin Xu(Aug 24-) - Tingxi Li (Aug 24-)
+    Graduated Students
+ Simin Chen (Ph.D. Jan 19- Jun 24) 1 [FSE 2020] [CVPR 2022] [IJCAI 2022] [FSE 2022] [ASE 2022] [ICCV-W 2023] [CVPR 2023] [ACL 2023] [InterSpeech 2023] [ISSTA 2023] [TRBAM 2024] [TOSEM 2024a] [TOSEM 2024b] [FSE 2024a] [FSE 2024b]</description>
     </item>
     
     <item>
@@ -97,13 +97,14 @@ Simin is on the job market. Contact him!
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://youngwei.com/home/teaching/</guid>
-      <description>Spring 2023, SE 4367.001 - Software Testing Verification Validation and Quality Assurance
+      <description>Spring 2025, CS 6375.001 - Machine Learning
+Fall 2024, CS 6375.004 - Machine Learning
+Fall 2024, CS 4375.003 - Introduction to Machine Learning
+Spring 2024, CS 7301.001 - Software Engineering for ML Systems
+Fall 2023, CS 4375.003 - Introduction to Machine Learning
+Spring 2023, SE 4367.001 - Software Testing Verification Validation and Quality Assurance
 Fall 2022, SE 6387.001 - Advanced Software Engineering Project
-Spring 2022, SE 4367.001 - Software Testing Verification Validation and Quality Assurance
-Fall 2021, CS/SE 7301.007 - Software Analysis &amp;amp; Security
-Spring 2021, SE 4367.001 - Software Testing Verification Validation and Quality Assurance
-Fall 2020, CS/SE 7301.501 - Software Analysis &amp;amp; Security
-Summer 2020, CS 4301: Machine Learning in Cyber Security</description>
+Spring 2022, SE 4367.001 - Software Testing Verification Validation and Quality Assurance</description>
     </item>
     
     <item>

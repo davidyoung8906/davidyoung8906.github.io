@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://youngwei.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Investigation on Numerical Bugs in GPU Programs Towards Automated Bug Detection</title>
+      <link>http://youngwei.com/publication/gpubug/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/gpubug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAOPT: Tool-Agnostic Optimization of Parallelized Automated Mobile UI Testing</title>
+      <link>http://youngwei.com/publication/taopt/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/taopt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CodeImprove: Program Adaptation for Deep Code Models</title>
+      <link>http://youngwei.com/publication/codeimprove/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/codeimprove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can you mimic me? Exploring the Use of Android Record &amp; Replay Tools in Debugging</title>
+      <link>http://youngwei.com/publication/mobilesoft/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/mobilesoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guardian: A Runtime Framework for LLM-based UI Exploration</title>
+      <link>http://youngwei.com/publication/guardian/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/guardian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HateModerate: Testing Hate Speech Detectors against Content Moderation Policies</title>

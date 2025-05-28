@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://youngwei.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Foundation Model Engineering: Engineering Foundation Models Just as Engineering Software</title>
+      <link>http://youngwei.com/publication/se2030/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/se2030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Testing Linguistic Capabilities of NLP Models</title>
+      <link>http://youngwei.com/publication/alict/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/alict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLMEffiChecker: Understanding and Testing Efficiency Degradation of Large Language Models</title>
+      <link>http://youngwei.com/publication/llmeffichecker/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://youngwei.com/publication/llmeffichecker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contrastive Learning for Robust Android Malware Familial Classification</title>
